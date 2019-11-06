@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_sg_write_back_action_item">
+    <sys_sg_write_back_action_item action="INSERT_OR_UPDATE">
+        <description/>
+        <execution_script/>
+        <name>Delete</name>
+        <query_condition table="x_387881_notificat_notification22">active=true^EQ<item endquery="false" field="active" goto="false" newquery="false" operator="=" or="false" value="true"/>
+            <item endquery="true" field="" goto="false" newquery="false" operator="=" or="false" value=""/>
+        </query_condition>
+        <sys_class_name>sys_sg_write_back_action_item</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2019-10-30 01:03:54</sys_created_on>
+        <sys_id>10249bed37384010c62603a973990eda</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Delete</sys_name>
+        <sys_package display_value="Notification" source="x_387881_notificat">d5ae8fa937384010c62603a973990e87</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Notification">d5ae8fa937384010c62603a973990e87</sys_scope>
+        <sys_update_name>sys_sg_write_back_action_item_10249bed37384010c62603a973990eda</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2019-10-30 01:03:54</sys_updated_on>
+        <table>x_387881_notificat_notification22</table>
+        <template/>
+        <type>delete</type>
+        <use_current_record_as_condition>true</use_current_record_as_condition>
+    </sys_sg_write_back_action_item>
+    <sys_translated_text action="delete_multiple" query="documentkey=10249bed37384010c62603a973990eda"/>
+</record_update>

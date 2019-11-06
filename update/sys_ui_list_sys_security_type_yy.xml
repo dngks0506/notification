@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_ui_list parent="" relationship="" sys_domain="global" table="sys_security_type" version="2" view="yy">
+        <sys_ui_list_element action="INSERT_OR_UPDATE">
+            <average_value>false</average_value>
+            <element>description</element>
+            <list_id display_value="sys_security_type" element="NULL" name="sys_security_type" parent="NULL" relationship="NULL" sys_domain="global" view="a9cf132937784010c62603a973990e9a">40f0ccf937b84010c62603a973990ece</list_id>
+            <max_value>false</max_value>
+            <min_value>false</min_value>
+            <position>0</position>
+            <sum>false</sum>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2019-10-30 04:19:01</sys_created_on>
+            <sys_id>88f0ccf937b84010c62603a973990ece</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2019-10-30 04:19:01</sys_updated_on>
+        </sys_ui_list_element>
+        <sys_ui_list action="INSERT_OR_UPDATE">
+            <average_value>false</average_value>
+            <element/>
+            <max_value>false</max_value>
+            <min_value>false</min_value>
+            <name>sys_security_type</name>
+            <parent/>
+            <position/>
+            <relationship/>
+            <sum>false</sum>
+            <sys_class_name>sys_ui_list</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2019-10-30 04:19:01</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>40f0ccf937b84010c62603a973990ece</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>sys_security_type</sys_name>
+            <sys_package display_value="Notification" source="x_387881_notificat">d5ae8fa937384010c62603a973990e87</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="Notification">d5ae8fa937384010c62603a973990e87</sys_scope>
+            <sys_update_name>sys_ui_list_sys_security_type_yy</sys_update_name>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2019-10-30 04:19:01</sys_updated_on>
+            <sys_user/>
+            <view display_value="yy" name="yy">a9cf132937784010c62603a973990e9a</view>
+            <view_name/>
+        </sys_ui_list>
+    </sys_ui_list>
+</record_update>

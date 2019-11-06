@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element label="Division2" max_length="40" name="x_387881_notificat_division2" type="collection">
+        <element choice="1" default="gg" display="true" label="DIvision" max_length="40" name="division" type="choice">
+            <choice>
+                <element inactive_on_update="false" label="早退" value="早退"/>
+                <element inactive_on_update="false" label="欠勤" value="hh"/>
+                <element inactive_on_update="false" label="遅刻" value="遅刻"/>
+                <element inactive_on_update="false" label="全休" sequence="0" value="gg"/>
+                <element inactive_on_update="false" label="半休" sequence="1" value="ｆｆｆｆｆ"/>
+            </choice>
+        </element>
+        <element attributes="edge_encryption_enabled=true" label="Gg" max_length="40" name="gg" type="string"/>
+    </element>
+</database>
