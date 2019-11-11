@@ -3,107 +3,122 @@
         <sys_ui_list_element action="INSERT_OR_UPDATE">
             <average_value>false</average_value>
             <element>number</element>
-            <list_id display_value="x_387881_notificat_notification22" element="NULL" name="x_387881_notificat_notification22" parent="NULL" relationship="NULL" sys_domain="global" view="21df4262e131330078502406b6333389">fbe927ad37784010c62603a973990e22</list_id>
+            <list_id display_value="x_387881_notificat_notification22" element="NULL" name="x_387881_notificat_notification22" parent="NULL" relationship="NULL" sys_domain="global" view="21df4262e131330078502406b6333389">ccb3b41837494010c62603a973990eae</list_id>
             <max_value>false</max_value>
             <min_value>false</min_value>
             <position>0</position>
             <sum>false</sum>
             <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2019-10-30 02:38:31</sys_created_on>
-            <sys_id>b7e927ad37784010c62603a973990e23</sys_id>
+            <sys_created_on>2019-11-07 02:25:33</sys_created_on>
+            <sys_id>08b3b41837494010c62603a973990eaf</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2019-10-30 02:38:31</sys_updated_on>
+            <sys_updated_on>2019-11-07 02:25:33</sys_updated_on>
         </sys_ui_list_element>
         <sys_ui_list_element action="INSERT_OR_UPDATE">
             <average_value>false</average_value>
             <element>name</element>
-            <list_id display_value="x_387881_notificat_notification22" element="NULL" name="x_387881_notificat_notification22" parent="NULL" relationship="NULL" sys_domain="global" view="21df4262e131330078502406b6333389">fbe927ad37784010c62603a973990e22</list_id>
+            <list_id display_value="x_387881_notificat_notification22" element="NULL" name="x_387881_notificat_notification22" parent="NULL" relationship="NULL" sys_domain="global" view="21df4262e131330078502406b6333389">ccb3b41837494010c62603a973990eae</list_id>
             <max_value>false</max_value>
             <min_value>false</min_value>
             <position>1</position>
             <sum>false</sum>
             <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2019-10-30 02:38:31</sys_created_on>
-            <sys_id>3be927ad37784010c62603a973990e23</sys_id>
+            <sys_created_on>2019-11-07 02:25:33</sys_created_on>
+            <sys_id>88b3b41837494010c62603a973990eaf</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2019-10-30 02:38:31</sys_updated_on>
+            <sys_updated_on>2019-11-07 02:25:33</sys_updated_on>
         </sys_ui_list_element>
         <sys_ui_list_element action="INSERT_OR_UPDATE">
             <average_value>false</average_value>
             <element>active</element>
-            <list_id display_value="x_387881_notificat_notification22" element="NULL" name="x_387881_notificat_notification22" parent="NULL" relationship="NULL" sys_domain="global" view="21df4262e131330078502406b6333389">fbe927ad37784010c62603a973990e22</list_id>
+            <list_id display_value="x_387881_notificat_notification22" element="NULL" name="x_387881_notificat_notification22" parent="NULL" relationship="NULL" sys_domain="global" view="21df4262e131330078502406b6333389">ccb3b41837494010c62603a973990eae</list_id>
             <max_value>false</max_value>
             <min_value>false</min_value>
             <position>2</position>
             <sum>false</sum>
             <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2019-10-30 02:38:31</sys_created_on>
-            <sys_id>bbe927ad37784010c62603a973990e23</sys_id>
+            <sys_created_on>2019-11-07 02:25:33</sys_created_on>
+            <sys_id>0cb3b41837494010c62603a973990eaf</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2019-10-30 02:38:31</sys_updated_on>
+            <sys_updated_on>2019-11-07 02:25:33</sys_updated_on>
         </sys_ui_list_element>
         <sys_ui_list_element action="INSERT_OR_UPDATE">
             <average_value>false</average_value>
             <element>date</element>
-            <list_id display_value="x_387881_notificat_notification22" element="NULL" name="x_387881_notificat_notification22" parent="NULL" relationship="NULL" sys_domain="global" view="21df4262e131330078502406b6333389">fbe927ad37784010c62603a973990e22</list_id>
+            <list_id display_value="x_387881_notificat_notification22" element="NULL" name="x_387881_notificat_notification22" parent="NULL" relationship="NULL" sys_domain="global" view="21df4262e131330078502406b6333389">ccb3b41837494010c62603a973990eae</list_id>
             <max_value>false</max_value>
             <min_value>false</min_value>
             <position>3</position>
             <sum>false</sum>
             <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2019-10-30 02:38:31</sys_created_on>
-            <sys_id>3fe927ad37784010c62603a973990e23</sys_id>
+            <sys_created_on>2019-11-07 02:25:33</sys_created_on>
+            <sys_id>8cb3b41837494010c62603a973990eaf</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2019-10-30 02:38:31</sys_updated_on>
+            <sys_updated_on>2019-11-07 02:25:33</sys_updated_on>
         </sys_ui_list_element>
         <sys_ui_list_element action="INSERT_OR_UPDATE">
             <average_value>false</average_value>
             <element>phone_call</element>
-            <list_id display_value="x_387881_notificat_notification22" element="NULL" name="x_387881_notificat_notification22" parent="NULL" relationship="NULL" sys_domain="global" view="21df4262e131330078502406b6333389">fbe927ad37784010c62603a973990e22</list_id>
+            <list_id display_value="x_387881_notificat_notification22" element="NULL" name="x_387881_notificat_notification22" parent="NULL" relationship="NULL" sys_domain="global" view="21df4262e131330078502406b6333389">ccb3b41837494010c62603a973990eae</list_id>
             <max_value>false</max_value>
             <min_value>false</min_value>
             <position>4</position>
             <sum>false</sum>
             <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2019-10-30 02:38:31</sys_created_on>
-            <sys_id>bfe927ad37784010c62603a973990e23</sys_id>
+            <sys_created_on>2019-11-07 02:25:33</sys_created_on>
+            <sys_id>00b3b41837494010c62603a973990eb0</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2019-10-30 02:38:31</sys_updated_on>
+            <sys_updated_on>2019-11-07 02:25:33</sys_updated_on>
         </sys_ui_list_element>
         <sys_ui_list_element action="INSERT_OR_UPDATE">
             <average_value>false</average_value>
             <element>short_description</element>
-            <list_id display_value="x_387881_notificat_notification22" element="NULL" name="x_387881_notificat_notification22" parent="NULL" relationship="NULL" sys_domain="global" view="21df4262e131330078502406b6333389">fbe927ad37784010c62603a973990e22</list_id>
+            <list_id display_value="x_387881_notificat_notification22" element="NULL" name="x_387881_notificat_notification22" parent="NULL" relationship="NULL" sys_domain="global" view="21df4262e131330078502406b6333389">ccb3b41837494010c62603a973990eae</list_id>
             <max_value>false</max_value>
             <min_value>false</min_value>
             <position>5</position>
             <sum>false</sum>
             <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2019-10-30 02:38:31</sys_created_on>
-            <sys_id>33e927ad37784010c62603a973990e24</sys_id>
+            <sys_created_on>2019-11-07 02:25:33</sys_created_on>
+            <sys_id>80b3b41837494010c62603a973990eb0</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2019-10-30 02:38:31</sys_updated_on>
+            <sys_updated_on>2019-11-07 02:25:33</sys_updated_on>
         </sys_ui_list_element>
         <sys_ui_list_element action="INSERT_OR_UPDATE">
             <average_value>false</average_value>
             <element>type</element>
-            <list_id display_value="x_387881_notificat_notification22" element="NULL" name="x_387881_notificat_notification22" parent="NULL" relationship="NULL" sys_domain="global" view="21df4262e131330078502406b6333389">fbe927ad37784010c62603a973990e22</list_id>
+            <list_id display_value="x_387881_notificat_notification22" element="NULL" name="x_387881_notificat_notification22" parent="NULL" relationship="NULL" sys_domain="global" view="21df4262e131330078502406b6333389">ccb3b41837494010c62603a973990eae</list_id>
             <max_value>false</max_value>
             <min_value>false</min_value>
             <position>6</position>
             <sum>false</sum>
             <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2019-10-30 02:38:31</sys_created_on>
-            <sys_id>b3e927ad37784010c62603a973990e24</sys_id>
+            <sys_created_on>2019-11-07 02:25:33</sys_created_on>
+            <sys_id>04b3b41837494010c62603a973990eb0</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2019-10-30 02:38:31</sys_updated_on>
+            <sys_updated_on>2019-11-07 02:25:33</sys_updated_on>
+        </sys_ui_list_element>
+        <sys_ui_list_element action="INSERT_OR_UPDATE">
+            <average_value>false</average_value>
+            <element>state</element>
+            <list_id display_value="x_387881_notificat_notification22" element="NULL" name="x_387881_notificat_notification22" parent="NULL" relationship="NULL" sys_domain="global" view="21df4262e131330078502406b6333389">ccb3b41837494010c62603a973990eae</list_id>
+            <max_value>false</max_value>
+            <min_value>false</min_value>
+            <position>7</position>
+            <sum>false</sum>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2019-11-07 02:25:33</sys_created_on>
+            <sys_id>84b3b41837494010c62603a973990eb0</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2019-11-07 02:25:33</sys_updated_on>
         </sys_ui_list_element>
         <sys_ui_list action="INSERT_OR_UPDATE">
             <average_value>false</average_value>
@@ -117,10 +132,10 @@
             <sum>false</sum>
             <sys_class_name>sys_ui_list</sys_class_name>
             <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2019-10-30 02:38:31</sys_created_on>
+            <sys_created_on>2019-11-07 02:25:33</sys_created_on>
             <sys_domain>global</sys_domain>
             <sys_domain_path>/</sys_domain_path>
-            <sys_id>fbe927ad37784010c62603a973990e22</sys_id>
+            <sys_id>ccb3b41837494010c62603a973990eae</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_name>x_387881_notificat_notification22</sys_name>
             <sys_package display_value="Notification" source="x_387881_notificat">d5ae8fa937384010c62603a973990e87</sys_package>
@@ -128,7 +143,7 @@
             <sys_scope display_value="Notification">d5ae8fa937384010c62603a973990e87</sys_scope>
             <sys_update_name>sys_ui_list_x_387881_notificat_notification22_Mobile</sys_update_name>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2019-10-30 02:38:31</sys_updated_on>
+            <sys_updated_on>2019-11-07 02:25:33</sys_updated_on>
             <sys_user/>
             <view display_value="Mobile" name="Mobile">21df4262e131330078502406b6333389</view>
             <view_name/>

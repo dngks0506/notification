@@ -4,13 +4,13 @@
             <element>number</element>
             <position>0</position>
             <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2019-10-30 07:18:20</sys_created_on>
-            <sys_id>7ef964b5373c4010c62603a973990ea9</sys_id>
+            <sys_created_on>2019-11-07 02:25:16</sys_created_on>
+            <sys_id>c8a3741837494010c62603a973990efa</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="NULL" display_value="" name="x_387881_notificat_notification22" sys_domain="global" view="Default view">5d20632937784010c62603a973990e2c</sys_ui_section>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2019-10-30 07:18:20</sys_updated_on>
+            <sys_updated_on>2019-11-07 02:25:16</sys_updated_on>
             <sys_user/>
             <type/>
         </sys_ui_element>
@@ -18,13 +18,13 @@
             <element>name</element>
             <position>1</position>
             <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2019-10-30 07:18:20</sys_created_on>
-            <sys_id>f2f964b5373c4010c62603a973990eaa</sys_id>
+            <sys_created_on>2019-11-07 02:25:16</sys_created_on>
+            <sys_id>4ca3741837494010c62603a973990efa</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="NULL" display_value="" name="x_387881_notificat_notification22" sys_domain="global" view="Default view">5d20632937784010c62603a973990e2c</sys_ui_section>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2019-10-30 07:18:20</sys_updated_on>
+            <sys_updated_on>2019-11-07 02:25:16</sys_updated_on>
             <sys_user/>
             <type/>
         </sys_ui_element>
@@ -32,13 +32,13 @@
             <element>date</element>
             <position>2</position>
             <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2019-10-30 07:18:20</sys_created_on>
-            <sys_id>76f964b5373c4010c62603a973990eaa</sys_id>
+            <sys_created_on>2019-11-07 02:25:16</sys_created_on>
+            <sys_id>cca3741837494010c62603a973990efa</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="NULL" display_value="" name="x_387881_notificat_notification22" sys_domain="global" view="Default view">5d20632937784010c62603a973990e2c</sys_ui_section>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2019-10-30 07:18:20</sys_updated_on>
+            <sys_updated_on>2019-11-07 02:25:16</sys_updated_on>
             <sys_user/>
             <type/>
         </sys_ui_element>
@@ -46,83 +46,83 @@
             <element>active</element>
             <position>3</position>
             <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2019-10-30 07:18:20</sys_created_on>
-            <sys_id>f6f964b5373c4010c62603a973990eaa</sys_id>
+            <sys_created_on>2019-11-07 02:25:16</sys_created_on>
+            <sys_id>40a3741837494010c62603a973990efb</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="NULL" display_value="" name="x_387881_notificat_notification22" sys_domain="global" view="Default view">5d20632937784010c62603a973990e2c</sys_ui_section>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2019-10-30 07:18:20</sys_updated_on>
+            <sys_updated_on>2019-11-07 02:25:16</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>state</element>
+            <position>4</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2019-11-07 02:25:16</sys_created_on>
+            <sys_id>c0a3741837494010c62603a973990efb</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_387881_notificat_notification22" sys_domain="global" view="Default view">5d20632937784010c62603a973990e2c</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2019-11-07 02:25:16</sys_updated_on>
             <sys_user/>
             <type/>
         </sys_ui_element>
         <sys_ui_element action="INSERT_OR_UPDATE">
             <element>.split</element>
-            <position>4</position>
+            <position>5</position>
             <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2019-10-30 07:18:20</sys_created_on>
-            <sys_id>7af964b5373c4010c62603a973990eaa</sys_id>
+            <sys_created_on>2019-11-07 02:25:16</sys_created_on>
+            <sys_id>44a3741837494010c62603a973990efb</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="NULL" display_value="" name="x_387881_notificat_notification22" sys_domain="global" view="Default view">5d20632937784010c62603a973990e2c</sys_ui_section>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2019-10-30 07:18:20</sys_updated_on>
+            <sys_updated_on>2019-11-07 02:25:16</sys_updated_on>
             <sys_user/>
             <type>.split</type>
         </sys_ui_element>
         <sys_ui_element action="INSERT_OR_UPDATE">
             <element>short_description</element>
-            <position>5</position>
+            <position>6</position>
             <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2019-10-30 07:18:20</sys_created_on>
-            <sys_id>faf964b5373c4010c62603a973990eaa</sys_id>
+            <sys_created_on>2019-11-07 02:25:16</sys_created_on>
+            <sys_id>c4a3741837494010c62603a973990efb</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="NULL" display_value="" name="x_387881_notificat_notification22" sys_domain="global" view="Default view">5d20632937784010c62603a973990e2c</sys_ui_section>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2019-10-30 07:18:20</sys_updated_on>
+            <sys_updated_on>2019-11-07 02:25:16</sys_updated_on>
             <sys_user/>
             <type/>
         </sys_ui_element>
         <sys_ui_element action="INSERT_OR_UPDATE">
             <element>phone_call</element>
-            <position>6</position>
+            <position>7</position>
             <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2019-10-30 07:18:20</sys_created_on>
-            <sys_id>7ef964b5373c4010c62603a973990eaa</sys_id>
+            <sys_created_on>2019-11-07 02:25:16</sys_created_on>
+            <sys_id>48a3741837494010c62603a973990efb</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="NULL" display_value="" name="x_387881_notificat_notification22" sys_domain="global" view="Default view">5d20632937784010c62603a973990e2c</sys_ui_section>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2019-10-30 07:18:20</sys_updated_on>
+            <sys_updated_on>2019-11-07 02:25:16</sys_updated_on>
             <sys_user/>
             <type/>
         </sys_ui_element>
         <sys_ui_element action="INSERT_OR_UPDATE">
             <element>type</element>
-            <position>7</position>
-            <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2019-10-30 07:18:20</sys_created_on>
-            <sys_id>fef964b5373c4010c62603a973990eaa</sys_id>
-            <sys_mod_count>0</sys_mod_count>
-            <sys_ui_formatter/>
-            <sys_ui_section caption="NULL" display_value="" name="x_387881_notificat_notification22" sys_domain="global" view="Default view">5d20632937784010c62603a973990e2c</sys_ui_section>
-            <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2019-10-30 07:18:20</sys_updated_on>
-            <sys_user/>
-            <type/>
-        </sys_ui_element>
-        <sys_ui_element action="INSERT_OR_UPDATE">
-            <element>u_currency_1</element>
             <position>8</position>
             <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2019-10-30 07:18:20</sys_created_on>
-            <sys_id>72f964b5373c4010c62603a973990eab</sys_id>
+            <sys_created_on>2019-11-07 02:25:16</sys_created_on>
+            <sys_id>c8a3741837494010c62603a973990efb</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="NULL" display_value="" name="x_387881_notificat_notification22" sys_domain="global" view="Default view">5d20632937784010c62603a973990e2c</sys_ui_section>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2019-10-30 07:18:20</sys_updated_on>
+            <sys_updated_on>2019-11-07 02:25:16</sys_updated_on>
             <sys_user/>
             <type/>
         </sys_ui_element>
@@ -130,13 +130,27 @@
             <element>expense</element>
             <position>9</position>
             <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2019-10-31 02:57:56</sys_created_on>
-            <sys_id>4ef7708637b48010c62603a973990e5d</sys_id>
+            <sys_created_on>2019-11-07 02:25:16</sys_created_on>
+            <sys_id>4ca3741837494010c62603a973990efb</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="NULL" display_value="" name="x_387881_notificat_notification22" sys_domain="global" view="Default view">5d20632937784010c62603a973990e2c</sys_ui_section>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2019-10-31 02:57:56</sys_updated_on>
+            <sys_updated_on>2019-11-07 02:25:16</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>place</element>
+            <position>10</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2019-11-11 01:15:38</sys_created_on>
+            <sys_id>0f0ac16137490410c62603a973990e36</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_387881_notificat_notification22" sys_domain="global" view="Default view">5d20632937784010c62603a973990e2c</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2019-11-11 01:15:38</sys_updated_on>
             <sys_user/>
             <type/>
         </sys_ui_element>
