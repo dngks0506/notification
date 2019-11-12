@@ -2,8 +2,10 @@
     <sys_sg_button_instance action="INSERT_OR_UPDATE">
         <active>true</active>
         <button display_value="Delete">af045bed37384010c62603a973990ed7</button>
+        <color_theme>primary</color_theme>
         <description/>
         <field_name/>
+        <icon/>
         <label>Delete</label>
         <location>trailing_swipe</location>
         <name>Delete</name>

@@ -5,7 +5,7 @@
         <group_by/>
         <name>Notification register</name>
         <query_condition table="x_387881_notificat_notification22">active=false^stateINconfirmed,unconfirmed,withhold^placeISEMPTY^ORDERBYnumber<item endquery="false" field="active" goto="false" newquery="false" operator="=" or="false" value="false"/>
-            <item endquery="false" field="state" goto="false" newquery="false" operator="IN" or="false" value="confirmed,unconfirmed,withhold"/>
+            <item display_value="confirmed,unconfirmed,withhold" endquery="false" field="state" goto="false" newquery="false" operator="IN" or="false" value="confirmed,unconfirmed,withhold"/>
             <item endquery="false" field="place" goto="false" newquery="false" operator="ISEMPTY" or="false" value=""/>
             <item endquery="false" field="" goto="false" newquery="false" operator="ORDERBY" or="false" value="number"/>
         </query_condition>

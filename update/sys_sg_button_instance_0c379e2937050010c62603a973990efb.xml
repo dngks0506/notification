@@ -2,8 +2,10 @@
     <sys_sg_button_instance action="INSERT_OR_UPDATE">
         <active>true</active>
         <button display_value="update Bussiness trip">a326922937050010c62603a973990e2f</button>
+        <color_theme>primary</color_theme>
         <description/>
         <field_name/>
+        <icon/>
         <label>update</label>
         <location>trailing_swipe</location>
         <name>update</name>

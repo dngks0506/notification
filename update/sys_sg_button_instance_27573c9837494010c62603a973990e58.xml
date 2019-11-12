@@ -2,8 +2,10 @@
     <sys_sg_button_instance action="INSERT_OR_UPDATE">
         <active>true</active>
         <button display_value="Confirm">6e08e81037494010c62603a973990e0b</button>
+        <color_theme>primary</color_theme>
         <description/>
         <field_name/>
+        <icon/>
         <label>Confirm</label>
         <location>leading_swipe</location>
         <name>Confirm</name>

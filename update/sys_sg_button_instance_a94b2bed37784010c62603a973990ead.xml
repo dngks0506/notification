@@ -2,8 +2,10 @@
     <sys_sg_button_instance action="INSERT_OR_UPDATE">
         <active>true</active>
         <button display_value="Update">44cae3ed37784010c62603a973990e1b</button>
+        <color_theme>primary</color_theme>
         <description/>
         <field_name/>
+        <icon/>
         <label>Update</label>
         <location>leading_swipe</location>
         <name>Update</name>
