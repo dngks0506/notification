@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_sg_button_instance_carried_param_map">
+    <sys_sg_button_instance_carried_param_map action="INSERT_OR_UPDATE">
+        <button_instance display_value="working at home">1925cb1237d90810c62603a973990eae</button_instance>
+        <button_ui_parameter display_value="Name">12093a8937d50410c62603a973990ec0</button_ui_parameter>
+        <screen_ui_parameter display_value="Name">12093a8937d50410c62603a973990ec0</screen_ui_parameter>
+        <sys_class_name>sys_sg_button_instance_carried_param_map</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2019-11-26 04:25:53</sys_created_on>
+        <sys_id>fd65035237d90810c62603a973990e1f</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>12093a8937d50410c62603a973990ec0</sys_name>
+        <sys_package display_value="Notification" source="x_387881_notificat">d5ae8fa937384010c62603a973990e87</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Notification">d5ae8fa937384010c62603a973990e87</sys_scope>
+        <sys_update_name>sys_sg_button_instance_carried_param_map_fd65035237d90810c62603a973990e1f</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2019-11-26 04:25:53</sys_updated_on>
+    </sys_sg_button_instance_carried_param_map>
+</record_update>

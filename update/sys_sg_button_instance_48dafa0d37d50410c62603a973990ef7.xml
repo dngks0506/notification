@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_sg_button_instance">
+    <sys_sg_button_instance action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <button display_value="Working at home new">5ca7220d37950410c62603a973990eba</button>
+        <color_theme>primary</color_theme>
+        <description/>
+        <field_name/>
+        <icon display_value="Clipboard - Orange">fff59a3effc21300f1f2883b73e11c4e</icon>
+        <label>在宅勤務申請</label>
+        <location>trailing_swipe</location>
+        <name>working at home</name>
+        <order/>
+        <parent>a70ab6c937d50410c62603a973990ea7</parent>
+        <parent_table>sys_sg_master_item</parent_table>
+        <sys_class_name>sys_sg_button_instance</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2019-11-22 06:27:54</sys_created_on>
+        <sys_id>48dafa0d37d50410c62603a973990ef7</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>working at home</sys_name>
+        <sys_package display_value="Notification" source="x_387881_notificat">d5ae8fa937384010c62603a973990e87</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Notification">d5ae8fa937384010c62603a973990e87</sys_scope>
+        <sys_update_name>sys_sg_button_instance_48dafa0d37d50410c62603a973990ef7</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2019-11-22 06:27:54</sys_updated_on>
+        <table/>
+    </sys_sg_button_instance>
+    <sys_translated_text action="delete_multiple" query="documentkey=48dafa0d37d50410c62603a973990ef7"/>
+</record_update>

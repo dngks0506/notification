@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_sg_function">
+    <sys_sg_function action="INSERT_OR_UPDATE">
+        <data_item display_value="Work at home">5a90aa4537950410c62603a973990e23</data_item>
+        <function>count</function>
+        <input>在宅勤務</input>
+        <name>Working at home</name>
+        <sys_class_name>sys_sg_function</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2019-11-22 05:01:09</sys_created_on>
+        <sys_id>faf6a6c937950410c62603a973990ecf</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Working at home</sys_name>
+        <sys_package display_value="Notification" source="x_387881_notificat">d5ae8fa937384010c62603a973990e87</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Notification">d5ae8fa937384010c62603a973990e87</sys_scope>
+        <sys_update_name>sys_sg_function_faf6a6c937950410c62603a973990ecf</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2019-11-22 05:01:09</sys_updated_on>
+    </sys_sg_function>
+</record_update>

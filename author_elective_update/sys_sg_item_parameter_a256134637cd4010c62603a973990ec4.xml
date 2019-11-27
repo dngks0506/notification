@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_sg_item_parameter">
+    <sys_sg_item_parameter action="DELETE">
+        <default_value/>
+        <name>Image</name>
+        <parent>39186075373c4010c62603a973990e06</parent>
+        <parent_table>sys_sg_write_back_action_item</parent_table>
+        <sys_class_name>sys_sg_item_parameter</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2019-11-13 00:45:48</sys_created_on>
+        <sys_id>a256134637cd4010c62603a973990ec4</sys_id>
+        <sys_mod_count>5</sys_mod_count>
+        <sys_name>Image</sys_name>
+        <sys_package display_value="Notification" source="x_387881_notificat">d5ae8fa937384010c62603a973990e87</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Notification">d5ae8fa937384010c62603a973990e87</sys_scope>
+        <sys_update_name>sys_sg_item_parameter_a256134637cd4010c62603a973990ec4</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2019-11-13 01:32:58</sys_updated_on>
+        <type>string</type>
+    </sys_sg_item_parameter>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="Notification">d5ae8fa937384010c62603a973990e87</application>
+        <file_path/>
+        <instance_id>b353b656db6cdf807e55d5b0cf96198f</instance_id>
+        <instance_name>dev51229</instance_name>
+        <name>sys_sg_item_parameter_a256134637cd4010c62603a973990ec4</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_sg_item_parameter"><sys_sg_item_parameter action="INSERT_OR_UPDATE"><default_value/><name>Image</name><parent>39186075373c4010c62603a973990e06</parent><parent_table>sys_sg_write_back_action_item</parent_table><sys_class_name>sys_sg_item_parameter</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2019-11-13 00:45:48</sys_created_on><sys_id>a256134637cd4010c62603a973990ec4</sys_id><sys_mod_count>5</sys_mod_count><sys_name>Image</sys_name><sys_package display_value="Notification" source="x_387881_notificat">d5ae8fa937384010c62603a973990e87</sys_package><sys_policy/><sys_scope display_value="Notification">d5ae8fa937384010c62603a973990e87</sys_scope><sys_update_name>sys_sg_item_parameter_a256134637cd4010c62603a973990ec4</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2019-11-13 01:32:58</sys_updated_on><type>string</type></sys_sg_item_parameter></record_update>]]></payload>
+        <payload_hash>1134710264</payload_hash>
+        <record_name>Image</record_name>
+        <reverted_from/>
+        <source>ddaec7e937384010c62603a973990ede</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2019-11-13 01:32:58</sys_created_on>
+        <sys_id>dc31e3ce37cd4010c62603a973990e9c</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>16e62646c360000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2019-11-13 01:32:58</sys_updated_on>
+        <type>Item Parameter</type>
+        <update_guid>5831e3ce1ccd40101f9f1fa75bb9f29c</update_guid>
+        <update_guid_history>5831e3ce1ccd40101f9f1fa75bb9f29c:1134710264,5d01a74eb4cd40108a499a5328992ef9:-749126362,e9dc1bca74cd401027d899967a143485:1134710264,acb8dfc651cd401021808eca0076d626:-749126362,15d617865fcd401073b0aed783ac2555:1134710264,1d66174655cd40107c425d9bf301f9f3:-749126362</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete/>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2019-11-15 02:39:36</sys_created_on>
+        <sys_db_object display_value="" name="sys_sg_item_parameter">sys_sg_item_parameter</sys_db_object>
+        <sys_id>b3e2780f68834908be8a9219d8425be4</sys_id>
+        <sys_metadata>a256134637cd4010c62603a973990ec4</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Image</sys_name>
+        <sys_package display_value="Notification" source="x_387881_notificat">d5ae8fa937384010c62603a973990e87</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="Notification">d5ae8fa937384010c62603a973990e87</sys_scope>
+        <sys_scope_delete display_value="">03e7efd489e943679324f362d9a15631</sys_scope_delete>
+        <sys_update_name>sys_sg_item_parameter_a256134637cd4010c62603a973990ec4</sys_update_name>
+        <sys_update_version display_value="sys_sg_item_parameter_a256134637cd4010c62603a973990ec4">dc31e3ce37cd4010c62603a973990e9c</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2019-11-15 02:39:36</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>

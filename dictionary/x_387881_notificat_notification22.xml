@@ -2,19 +2,23 @@
     <element label="Notification22" max_length="40" name="x_387881_notificat_notification22" type="collection">
         <element label="active" max_length="40" name="active" type="boolean"/>
         <element label="Date" max_length="40" name="date" type="due_date"/>
-        <element label="Expense" max_length="40" name="expense" type="integer"/>
+        <element display="true" label="End Date" max_length="100" name="end_date" type="glide_date_time"/>
+        <element label="Expense" max_length="20" name="expense" type="currency"/>
         <element label="Name" max_length="40" name="name" type="string_full_utf8"/>
         <element label="Number" max_length="20" name="number" type="decimal"/>
-        <element label="phone call" max_length="40" name="phone_call" type="integer"/>
+        <element label="phone call" mandatory="true" max_length="40" name="phone_call" type="phone_number_e164"/>
         <element label="place" max_length="255" name="place" type="string_full_utf8"/>
+        <element label="Reason" max_length="255" name="reason" type="string_full_utf8"/>
         <element label="short description" max_length="40" name="short_description" type="string"/>
+        <element attributes="calendar_elements=number;short_description;state" label="Start Date" max_length="100" name="start_date" type="glide_date_time"/>
         <element attributes="edge_encryption_enabled=true" choice="1" default="unconfirmed" label="State" max_length="40" name="state" type="choice">
             <choice>
                 <element inactive_on_update="false" label="Confirmed" sequence="0" value="confirmed"/>
                 <element inactive_on_update="false" label="Unconfirmed" sequence="1" value="unconfirmed"/>
-                <element inactive_on_update="false" label="Withhold" sequence="2" value="withhold"/>
+                <element inactive_on_update="false" label="Reject" sequence="2" value="Reject"/>
             </choice>
         </element>
         <element attributes="edge_encryption_enabled=true" label="Type" max_length="40" name="type" reference="x_387881_notificat_division2" type="reference"/>
+        <element attributes="allow_tables" label="upload image" max_length="40" name="upload_image" type="user_image"/>
     </element>
 </database>

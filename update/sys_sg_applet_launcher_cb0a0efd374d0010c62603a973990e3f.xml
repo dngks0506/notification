@@ -2,7 +2,7 @@
     <sys_sg_applet_launcher action="INSERT_OR_UPDATE">
         <active>true</active>
         <available_offline>false</available_offline>
-        <header_button/>
+        <header_button display_value="Notification Launcher Button Instance">9f58525a37190810c62603a973990eea</header_button>
         <header_titles/>
         <hide_empty_sections>true</hide_empty_sections>
         <name>Notification</name>
@@ -12,14 +12,14 @@
         <sys_created_by>admin</sys_created_by>
         <sys_created_on>2019-11-12 00:33:45</sys_created_on>
         <sys_id>cb0a0efd374d0010c62603a973990e3f</sys_id>
-        <sys_mod_count>0</sys_mod_count>
+        <sys_mod_count>20</sys_mod_count>
         <sys_name>Notification</sys_name>
         <sys_package display_value="Notification" source="x_387881_notificat">d5ae8fa937384010c62603a973990e87</sys_package>
         <sys_policy/>
         <sys_scope display_value="Notification">d5ae8fa937384010c62603a973990e87</sys_scope>
         <sys_update_name>sys_sg_applet_launcher_cb0a0efd374d0010c62603a973990e3f</sys_update_name>
         <sys_updated_by>admin</sys_updated_by>
-        <sys_updated_on>2019-11-12 00:33:45</sys_updated_on>
+        <sys_updated_on>2019-11-26 01:08:57</sys_updated_on>
         <title>Notification</title>
     </sys_sg_applet_launcher>
 </record_update>

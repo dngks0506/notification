@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_sg_button_instance">
+    <sys_sg_button_instance action="DELETE">
+        <active>true</active>
+        <button display_value="Launcher Button">f5ea094237d5c410c62603a973990ef9</button>
+        <color_theme>primary</color_theme>
+        <description/>
+        <field_name/>
+        <icon display_value="User Icon">f1ea094237d5c410c62603a973990ef7</icon>
+        <label>Notification Launcher Button Instance</label>
+        <location>top</location>
+        <name>Notification Launcher Button Instance</name>
+        <order/>
+        <parent>cb0a0efd374d0010c62603a973990e3f</parent>
+        <parent_table>sys_sg_applet_launcher</parent_table>
+        <sys_class_name>sys_sg_button_instance</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2019-11-25 00:52:03</sys_created_on>
+        <sys_id>fdea094237d5c410c62603a973990efb</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Notification Launcher Button Instance</sys_name>
+        <sys_package display_value="Notification" source="x_387881_notificat">d5ae8fa937384010c62603a973990e87</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Notification">d5ae8fa937384010c62603a973990e87</sys_scope>
+        <sys_update_name>sys_sg_button_instance_fdea094237d5c410c62603a973990efb</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2019-11-25 00:52:03</sys_updated_on>
+        <table/>
+    </sys_sg_button_instance>
+    <sys_translated_text action="delete_multiple" query="documentkey=fdea094237d5c410c62603a973990efb"/>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="Notification">d5ae8fa937384010c62603a973990e87</application>
+        <file_path/>
+        <instance_id>b353b656db6cdf807e55d5b0cf96198f</instance_id>
+        <instance_name>dev51229</instance_name>
+        <name>sys_sg_button_instance_fdea094237d5c410c62603a973990efb</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_sg_button_instance"><sys_sg_button_instance action="INSERT_OR_UPDATE"><active>true</active><button display_value="Launcher Button">f5ea094237d5c410c62603a973990ef9</button><color_theme>primary</color_theme><description/><field_name/><icon display_value="User Icon">f1ea094237d5c410c62603a973990ef7</icon><label>Notification Launcher Button Instance</label><location>top</location><name>Notification Launcher Button Instance</name><order/><parent>cb0a0efd374d0010c62603a973990e3f</parent><parent_table>sys_sg_applet_launcher</parent_table><sys_class_name>sys_sg_button_instance</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2019-11-25 00:52:03</sys_created_on><sys_id>fdea094237d5c410c62603a973990efb</sys_id><sys_mod_count>0</sys_mod_count><sys_name>Notification Launcher Button Instance</sys_name><sys_package display_value="Notification" source="x_387881_notificat">d5ae8fa937384010c62603a973990e87</sys_package><sys_policy/><sys_scope display_value="Notification">d5ae8fa937384010c62603a973990e87</sys_scope><sys_update_name>sys_sg_button_instance_fdea094237d5c410c62603a973990efb</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2019-11-25 00:52:03</sys_updated_on><table/></sys_sg_button_instance><sys_translated_text action="delete_multiple" query="documentkey=fdea094237d5c410c62603a973990efb"/></record_update>]]></payload>
+        <payload_hash>-2109847837</payload_hash>
+        <record_name>Notification Launcher Button Instance</record_name>
+        <reverted_from/>
+        <source>ddaec7e937384010c62603a973990ede</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2019-11-25 00:52:03</sys_created_on>
+        <sys_id>71ea094237d5c410c62603a973990efe</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>16ea00b43680000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2019-11-25 00:52:03</sys_updated_on>
+        <type>Function instance</type>
+        <update_guid>b9ea094274d5c410808bfc9d8e9648fd</update_guid>
+        <update_guid_history>b9ea094274d5c410808bfc9d8e9648fd:-2109847837</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete/>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2019-11-25 00:52:21</sys_created_on>
+        <sys_db_object display_value="" name="sys_sg_button_instance">sys_sg_button_instance</sys_db_object>
+        <sys_id>65de38838b894fc8a253e475aa2c3d10</sys_id>
+        <sys_metadata>fdea094237d5c410c62603a973990efb</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Notification Launcher Button Instance</sys_name>
+        <sys_package display_value="Notification" source="x_387881_notificat">d5ae8fa937384010c62603a973990e87</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="Notification">d5ae8fa937384010c62603a973990e87</sys_scope>
+        <sys_scope_delete display_value="">03e7efd489e943679324f362d9a15631</sys_scope_delete>
+        <sys_update_name>sys_sg_button_instance_fdea094237d5c410c62603a973990efb</sys_update_name>
+        <sys_update_version display_value="sys_sg_button_instance_fdea094237d5c410c62603a973990efb">71ea094237d5c410c62603a973990efe</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2019-11-25 00:52:21</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>

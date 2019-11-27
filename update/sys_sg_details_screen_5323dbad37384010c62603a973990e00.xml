@@ -8,7 +8,7 @@
         <fetch_type>not_required</fetch_type>
         <hidden>false</hidden>
         <hide_filters>false</hide_filters>
-        <icon display_value="gem">fa23d7ad37384010c62603a973990e82</icon>
+        <icon display_value="icon-Heart">fa23d7ad37384010c62603a973990e82</icon>
         <item_view/>
         <name>Details</name>
         <order/>
@@ -19,14 +19,14 @@
         <sys_created_by>admin</sys_created_by>
         <sys_created_on>2019-10-30 00:59:05</sys_created_on>
         <sys_id>5323dbad37384010c62603a973990e00</sys_id>
-        <sys_mod_count>5</sys_mod_count>
+        <sys_mod_count>43</sys_mod_count>
         <sys_name>Details</sys_name>
         <sys_package display_value="Notification" source="x_387881_notificat">d5ae8fa937384010c62603a973990e87</sys_package>
         <sys_policy/>
         <sys_scope display_value="Notification">d5ae8fa937384010c62603a973990e87</sys_scope>
         <sys_update_name>sys_sg_details_screen_5323dbad37384010c62603a973990e00</sys_update_name>
         <sys_updated_by>admin</sys_updated_by>
-        <sys_updated_on>2019-11-12 00:33:45</sys_updated_on>
+        <sys_updated_on>2019-11-26 08:02:22</sys_updated_on>
         <table>x_387881_notificat_notification22</table>
     </sys_sg_details_screen>
     <sys_translated_text action="delete_multiple" query="documentkey=5323dbad37384010c62603a973990e00"/>

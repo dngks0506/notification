@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_sg_action_param_map">
+    <sys_sg_action_param_map action="DELETE">
+        <button display_value="Create New">56959f2137784010c62603a973990e62</button>
+        <item_parameter display_value="Phone call">de70a2f137cd0010c62603a973990e20</item_parameter>
+        <sys_class_name>sys_sg_action_param_map</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2019-10-30 01:38:04</sys_created_on>
+        <sys_id>61fbd36537784010c62603a973990eba</sys_id>
+        <sys_mod_count>1</sys_mod_count>
+        <sys_name>de70a2f137cd0010c62603a973990e20</sys_name>
+        <sys_package display_value="Notification" source="x_387881_notificat">d5ae8fa937384010c62603a973990e87</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Notification">d5ae8fa937384010c62603a973990e87</sys_scope>
+        <sys_update_name>sys_sg_action_param_map_61fbd36537784010c62603a973990eba</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2019-11-12 02:12:54</sys_updated_on>
+        <ui_parameter display_value="Phone number">762997a137784010c62603a973990e02</ui_parameter>
+    </sys_sg_action_param_map>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="Notification">d5ae8fa937384010c62603a973990e87</application>
+        <file_path/>
+        <instance_id>b353b656db6cdf807e55d5b0cf96198f</instance_id>
+        <instance_name>dev51229</instance_name>
+        <name>sys_sg_action_param_map_61fbd36537784010c62603a973990eba</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_sg_action_param_map"><sys_sg_action_param_map action="INSERT_OR_UPDATE"><button display_value="Create New">56959f2137784010c62603a973990e62</button><item_parameter display_value="Phone call">de70a2f137cd0010c62603a973990e20</item_parameter><sys_class_name>sys_sg_action_param_map</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2019-10-30 01:38:04</sys_created_on><sys_id>61fbd36537784010c62603a973990eba</sys_id><sys_mod_count>1</sys_mod_count><sys_name>de70a2f137cd0010c62603a973990e20</sys_name><sys_package display_value="Notification" source="x_387881_notificat">d5ae8fa937384010c62603a973990e87</sys_package><sys_policy/><sys_scope display_value="Notification">d5ae8fa937384010c62603a973990e87</sys_scope><sys_update_name>sys_sg_action_param_map_61fbd36537784010c62603a973990eba</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2019-11-12 02:12:54</sys_updated_on><ui_parameter display_value="Phone number">762997a137784010c62603a973990e02</ui_parameter></sys_sg_action_param_map></record_update>]]></payload>
+        <payload_hash>167646203</payload_hash>
+        <record_name>de70a2f137cd0010c62603a973990e20</record_name>
+        <reverted_from/>
+        <source>ddaec7e937384010c62603a973990ede</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2019-11-12 02:12:54</sys_created_on>
+        <sys_id>afb06af137cd0010c62603a973990e50</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>16e5d629df90000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2019-11-12 02:12:54</sys_updated_on>
+        <type>Action parameters mapping</type>
+        <update_guid>2bb06af1cbcd001098437023da508550</update_guid>
+        <update_guid_history>2bb06af1cbcd001098437023da508550:167646203,6e1c97251d78401040597645eafea89a:-712832080</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete/>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2019-11-13 04:17:41</sys_created_on>
+        <sys_db_object display_value="" name="sys_sg_action_param_map">sys_sg_action_param_map</sys_db_object>
+        <sys_id>28875488dc2b4ed2bcce075608206d71</sys_id>
+        <sys_metadata>61fbd36537784010c62603a973990eba</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>de70a2f137cd0010c62603a973990e20</sys_name>
+        <sys_package display_value="Notification" source="x_387881_notificat">d5ae8fa937384010c62603a973990e87</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="Notification">d5ae8fa937384010c62603a973990e87</sys_scope>
+        <sys_scope_delete display_value="">03e7efd489e943679324f362d9a15631</sys_scope_delete>
+        <sys_update_name>sys_sg_action_param_map_61fbd36537784010c62603a973990eba</sys_update_name>
+        <sys_update_version display_value="sys_sg_action_param_map_61fbd36537784010c62603a973990eba">afb06af137cd0010c62603a973990e50</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2019-11-13 04:17:41</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>

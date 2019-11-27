@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_sg_screen">
+    <sys_sg_form_screen action="DELETE">
+        <application_roles/>
+        <available_offline>false</available_offline>
+        <data_item/>
+        <description/>
+        <dynamic_prefetch_count/>
+        <fetch_type>not_required</fetch_type>
+        <hidden>false</hidden>
+        <hide_filters>false</hide_filters>
+        <icon display_value="Form Icon">37305d8637d5c410c62603a973990e48</icon>
+        <item_view display_value="Form Header Item View">7b305d8637d5c410c62603a973990e4a</item_view>
+        <name>Form</name>
+        <order/>
+        <parent/>
+        <parent_table/>
+        <roles_override/>
+        <sys_class_name>sys_sg_form_screen</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2019-11-25 01:15:23</sys_created_on>
+        <sys_id>7f305d8637d5c410c62603a973990e4c</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Form</sys_name>
+        <sys_package display_value="Notification" source="x_387881_notificat">d5ae8fa937384010c62603a973990e87</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Notification">d5ae8fa937384010c62603a973990e87</sys_scope>
+        <sys_update_name>sys_sg_form_screen_7f305d8637d5c410c62603a973990e4c</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2019-11-25 01:15:23</sys_updated_on>
+        <table>map</table>
+    </sys_sg_form_screen>
+    <sys_translated_text action="delete_multiple" query="documentkey=7f305d8637d5c410c62603a973990e4c"/>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="Notification">d5ae8fa937384010c62603a973990e87</application>
+        <file_path/>
+        <instance_id>b353b656db6cdf807e55d5b0cf96198f</instance_id>
+        <instance_name>dev51229</instance_name>
+        <name>sys_sg_form_screen_7f305d8637d5c410c62603a973990e4c</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_sg_screen"><sys_sg_form_screen action="INSERT_OR_UPDATE"><application_roles/><available_offline>false</available_offline><data_item/><description/><dynamic_prefetch_count/><fetch_type>not_required</fetch_type><hidden>false</hidden><hide_filters>false</hide_filters><icon display_value="Form Icon">37305d8637d5c410c62603a973990e48</icon><item_view display_value="Form Header Item View">7b305d8637d5c410c62603a973990e4a</item_view><name>Form</name><order/><parent/><parent_table/><roles_override/><sys_class_name>sys_sg_form_screen</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2019-11-25 01:15:23</sys_created_on><sys_id>7f305d8637d5c410c62603a973990e4c</sys_id><sys_mod_count>0</sys_mod_count><sys_name>Form</sys_name><sys_package display_value="Notification" source="x_387881_notificat">d5ae8fa937384010c62603a973990e87</sys_package><sys_policy/><sys_scope display_value="Notification">d5ae8fa937384010c62603a973990e87</sys_scope><sys_update_name>sys_sg_form_screen_7f305d8637d5c410c62603a973990e4c</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2019-11-25 01:15:23</sys_updated_on><table>map</table></sys_sg_form_screen><sys_translated_text action="delete_multiple" query="documentkey=7f305d8637d5c410c62603a973990e4c"/></record_update>]]></payload>
+        <payload_hash>1901562616</payload_hash>
+        <record_name>Form</record_name>
+        <reverted_from/>
+        <source>ddaec7e937384010c62603a973990ede</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2019-11-25 01:28:47</sys_created_on>
+        <sys_id>00539d4a37d5c410c62603a973990e0c</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>16ea02ce5430000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2019-11-25 01:28:47</sys_updated_on>
+        <type>Form Screen</type>
+        <update_guid>733051c61bd5c41083aed6068bbbd6c0</update_guid>
+        <update_guid_history>733051c61bd5c41083aed6068bbbd6c0:-316985741,733051c61bd5c41083aed6068bbbd6c0:-316985741</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete/>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2019-11-25 06:15:59</sys_created_on>
+        <sys_db_object display_value="" name="sys_sg_form_screen">sys_sg_form_screen</sys_db_object>
+        <sys_id>620a466f13424814b6c214b8a21b0ca1</sys_id>
+        <sys_metadata>7f305d8637d5c410c62603a973990e4c</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Form</sys_name>
+        <sys_package display_value="Notification" source="x_387881_notificat">d5ae8fa937384010c62603a973990e87</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="Notification">d5ae8fa937384010c62603a973990e87</sys_scope>
+        <sys_scope_delete display_value="">03e7efd489e943679324f362d9a15631</sys_scope_delete>
+        <sys_update_name>sys_sg_form_screen_7f305d8637d5c410c62603a973990e4c</sys_update_name>
+        <sys_update_version display_value="sys_sg_form_screen_7f305d8637d5c410c62603a973990e4c">00539d4a37d5c410c62603a973990e0c</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2019-11-25 06:15:59</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>

@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_sg_item_view">
+    <sys_sg_item_view action="INSERT_OR_UPDATE">
+        <data_item/>
+        <dependency_fields/>
+        <item_view_json>{"Type":"ViewGroup","Margin":{"Top":26,"Bottom":26},"Orientation":"Vertical","Alignment":"Center","Distribution":"Auto","Children":[{"Type":"ViewGroup","Margin":{},"CornerRadius":41,"Orientation":"Horizontal","Alignment":"Center","Distribution":"Auto","Children":[{"Type":"Image","Margin":{"Top":3,"Left":3,"Right":3,"Bottom":3},"Width":76,"studio_template_field_id":"E1","CornerRadius":38,"BackgroundColor":"#ffffff","Height":76,"Scaling":"Fit","Id":35102}],"BackgroundColor":"#165c53","Id":12259},{"Type":"Text","Margin":{"Top":9},"TextColor":"#165c53","TextAlignment":"Left","MaxLines":1,"Font":{"Weight":"regular","Size":22},"studio_template_field_id":"E2","Id":22124},{"Type":"Text","Margin":{"Top":5},"Text":"PLACEHOLDER","studio_template_field_id":"E3","TextColor":"#333e3f","TextAlignment":"Left","MaxLines":1,"Font":{"Weight":"regular","Size":16},"Id":22125},{"Type":"Text","Margin":{"Top":5},"Text":"PLACEHOLDER","studio_template_field_id":"E4","TextColor":"#333e3f","TextAlignment":"Left","MaxLines":1,"Font":{"Weight":"regular","Size":13},"Id":22126}],"BackgroundColor":"#ffffff","studio_card_id":"8358f23023052300a8ed7f4fc7bf65b2","Id":28090}</item_view_json>
+        <name>EmployeeDirectory Header Item View</name>
+        <short_description/>
+        <sys_class_name>sys_sg_item_view</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2019-11-25 01:10:38</sys_created_on>
+        <sys_id>c62f8d4637d5c410c62603a973990ef0</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>EmployeeDirectory Header Item View</sys_name>
+        <sys_package display_value="Notification" source="x_387881_notificat">d5ae8fa937384010c62603a973990e87</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Notification">d5ae8fa937384010c62603a973990e87</sys_scope>
+        <sys_update_name>sys_sg_item_view_c62f8d4637d5c410c62603a973990ef0</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2019-11-25 01:10:38</sys_updated_on>
+        <table>sys_user</table>
+        <ui_styles/>
+    </sys_sg_item_view>
+    <sys_translated_text action="delete_multiple" query="documentkey=c62f8d4637d5c410c62603a973990ef0"/>
+</record_update>

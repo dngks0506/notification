@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?><record_update table="sys_sg_form_segment">
     <sys_sg_form_segment action="INSERT_OR_UPDATE">
         <embedded_screen display_value="Details">5323dbad37384010c62603a973990e00</embedded_screen>
-        <form display_value="Master Item">7a0acafd374d0010c62603a973990ecf</form>
+        <form display_value="Notification register">7a0acafd374d0010c62603a973990ecf</form>
         <order>10</order>
         <sys_class_name>sys_sg_form_segment</sys_class_name>
         <sys_created_by>admin</sys_created_by>

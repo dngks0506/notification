@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_sg_map_screen">
+    <sys_sg_map_screen action="DELETE">
+        <application_roles/>
+        <available_offline>false</available_offline>
+        <data_item/>
+        <data_item_table/>
+        <description/>
+        <dynamic_prefetch_count/>
+        <fetch_type>not_required</fetch_type>
+        <hidden>false</hidden>
+        <hide_filters>false</hide_filters>
+        <icon display_value="icon-Building">2333954a37d5c410c62603a973990e27</icon>
+        <info/>
+        <location/>
+        <name>Map</name>
+        <order/>
+        <parent/>
+        <parent_table/>
+        <phone/>
+        <pin_color>#64DDAC</pin_color>
+        <pin_color_type>default</pin_color_type>
+        <roles_override/>
+        <sub_title/>
+        <sys_class_name>sys_sg_map_screen</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2019-11-25 01:28:29</sys_created_on>
+        <sys_id>fb33954a37d5c410c62603a973990e2b</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Map</sys_name>
+        <sys_package display_value="Notification" source="x_387881_notificat">d5ae8fa937384010c62603a973990e87</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Notification">d5ae8fa937384010c62603a973990e87</sys_scope>
+        <sys_update_name>sys_sg_map_screen_fb33954a37d5c410c62603a973990e2b</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2019-11-25 01:28:29</sys_updated_on>
+        <tag/>
+        <tag_background_color>#FFFFFF</tag_background_color>
+        <tag_font_color>#FF0000</tag_font_color>
+        <tag_style/>
+        <title/>
+    </sys_sg_map_screen>
+    <sys_translated_text action="delete_multiple" query="documentkey=fb33954a37d5c410c62603a973990e2b"/>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="Notification">d5ae8fa937384010c62603a973990e87</application>
+        <file_path/>
+        <instance_id>b353b656db6cdf807e55d5b0cf96198f</instance_id>
+        <instance_name>dev51229</instance_name>
+        <name>sys_sg_map_screen_fb33954a37d5c410c62603a973990e2b</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_sg_map_screen"><sys_sg_map_screen action="INSERT_OR_UPDATE"><application_roles/><available_offline>false</available_offline><data_item/><data_item_table/><description/><dynamic_prefetch_count/><fetch_type>not_required</fetch_type><hidden>false</hidden><hide_filters>false</hide_filters><icon display_value="icon-Building">2333954a37d5c410c62603a973990e27</icon><info/><location/><name>Map</name><order/><parent/><parent_table/><phone/><pin_color>#64DDAC</pin_color><pin_color_type>default</pin_color_type><roles_override/><sub_title/><sys_class_name>sys_sg_map_screen</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2019-11-25 01:28:29</sys_created_on><sys_id>fb33954a37d5c410c62603a973990e2b</sys_id><sys_mod_count>0</sys_mod_count><sys_name>Map</sys_name><sys_package display_value="Notification" source="x_387881_notificat">d5ae8fa937384010c62603a973990e87</sys_package><sys_policy/><sys_scope display_value="Notification">d5ae8fa937384010c62603a973990e87</sys_scope><sys_update_name>sys_sg_map_screen_fb33954a37d5c410c62603a973990e2b</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2019-11-25 01:28:29</sys_updated_on><tag/><tag_background_color>#FFFFFF</tag_background_color><tag_font_color>#FF0000</tag_font_color><tag_style/><title/></sys_sg_map_screen><sys_translated_text action="delete_multiple" query="documentkey=fb33954a37d5c410c62603a973990e2b"/></record_update>]]></payload>
+        <payload_hash>83268128</payload_hash>
+        <record_name>Map</record_name>
+        <reverted_from/>
+        <source>ddaec7e937384010c62603a973990ede</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2019-11-25 01:28:29</sys_created_on>
+        <sys_id>b3331d4a37d5c410c62603a973990e98</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>16ea02ca0970000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2019-11-25 01:28:29</sys_updated_on>
+        <type>Map screen</type>
+        <update_guid>fb331d4aa7d5c410798242a83dafec97</update_guid>
+        <update_guid_history>fb331d4aa7d5c410798242a83dafec97:83268128</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete/>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2019-11-25 06:15:53</sys_created_on>
+        <sys_db_object display_value="" name="sys_sg_map_screen">sys_sg_map_screen</sys_db_object>
+        <sys_id>1bf1c58f39d248acb3c6c77ffe294410</sys_id>
+        <sys_metadata>fb33954a37d5c410c62603a973990e2b</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Map</sys_name>
+        <sys_package display_value="Notification" source="x_387881_notificat">d5ae8fa937384010c62603a973990e87</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="Notification">d5ae8fa937384010c62603a973990e87</sys_scope>
+        <sys_scope_delete display_value="">03e7efd489e943679324f362d9a15631</sys_scope_delete>
+        <sys_update_name>sys_sg_map_screen_fb33954a37d5c410c62603a973990e2b</sys_update_name>
+        <sys_update_version display_value="sys_sg_map_screen_fb33954a37d5c410c62603a973990e2b">b3331d4a37d5c410c62603a973990e98</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2019-11-25 06:15:53</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>

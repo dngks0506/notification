@@ -19,7 +19,7 @@
         <hide_buttons/>
         <hide_fields/>
         <jump_to_previous>false</jump_to_previous>
-        <jump_to_screen>true</jump_to_screen>
+        <jump_to_screen>false</jump_to_screen>
         <link_label/>
         <link_url/>
         <mail_address/>
@@ -35,7 +35,7 @@
         <relative_url>true</relative_url>
         <roles>x_387881_notificat.notification22_user</roles>
         <save_signature_before_action_execution>false</save_signature_before_action_execution>
-        <select_current_record>true</select_current_record>
+        <select_current_record>false</select_current_record>
         <show_acknowledgement>false</show_acknowledgement>
         <show_buttons/>
         <show_confirmation>true</show_confirmation>
@@ -48,14 +48,14 @@
         <sys_created_by>admin</sys_created_by>
         <sys_created_on>2019-10-30 02:43:52</sys_created_on>
         <sys_id>44cae3ed37784010c62603a973990e1b</sys_id>
-        <sys_mod_count>11</sys_mod_count>
+        <sys_mod_count>16</sys_mod_count>
         <sys_name>Update</sys_name>
         <sys_package display_value="Notification" source="x_387881_notificat">d5ae8fa937384010c62603a973990e87</sys_package>
         <sys_policy/>
         <sys_scope display_value="Notification">d5ae8fa937384010c62603a973990e87</sys_scope>
         <sys_update_name>sys_sg_button_44cae3ed37784010c62603a973990e1b</sys_update_name>
         <sys_updated_by>admin</sys_updated_by>
-        <sys_updated_on>2019-11-12 00:33:44</sys_updated_on>
+        <sys_updated_on>2019-11-22 04:03:03</sys_updated_on>
         <table>x_387881_notificat_notification22</table>
         <take_value_from_field>false</take_value_from_field>
         <type>write_back</type>

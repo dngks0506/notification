@@ -43,7 +43,7 @@
             <element>state</element>
             <hint/>
             <inactive>false</inactive>
-            <label>Withhold</label>
+            <label>Reject</label>
             <language>en</language>
             <name>x_387881_notificat_notification22</name>
             <sequence>2</sequence>
@@ -52,10 +52,10 @@
             <sys_domain>global</sys_domain>
             <sys_domain_path>/</sys_domain_path>
             <sys_id>7f93741837494010c62603a973990ef1</sys_id>
-            <sys_mod_count>0</sys_mod_count>
+            <sys_mod_count>2</sys_mod_count>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2019-11-07 02:25:16</sys_updated_on>
-            <value>withhold</value>
+            <sys_updated_on>2019-11-12 01:42:18</sys_updated_on>
+            <value>Reject</value>
         </sys_choice>
         <sys_choice_set action="INSERT_OR_UPDATE">
             <element>state</element>

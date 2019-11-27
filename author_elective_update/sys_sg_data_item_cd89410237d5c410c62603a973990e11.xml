@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_sg_data_item">
+    <sys_sg_data_item action="DELETE">
+        <condition_type>declarative</condition_type>
+        <description/>
+        <group_by/>
+        <name>TestList</name>
+        <query_condition/>
+        <query_condition_script/>
+        <sys_class_name>sys_sg_data_item</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2019-11-25 00:45:59</sys_created_on>
+        <sys_id>cd89410237d5c410c62603a973990e11</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>TestList</sys_name>
+        <sys_package display_value="Notification" source="x_387881_notificat">d5ae8fa937384010c62603a973990e87</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Notification">d5ae8fa937384010c62603a973990e87</sys_scope>
+        <sys_update_name>sys_sg_data_item_cd89410237d5c410c62603a973990e11</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2019-11-25 00:45:59</sys_updated_on>
+        <table>sys_user</table>
+    </sys_sg_data_item>
+    <sys_translated_text action="delete_multiple" query="documentkey=cd89410237d5c410c62603a973990e11"/>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="Notification">d5ae8fa937384010c62603a973990e87</application>
+        <file_path/>
+        <instance_id>b353b656db6cdf807e55d5b0cf96198f</instance_id>
+        <instance_name>dev51229</instance_name>
+        <name>sys_sg_data_item_cd89410237d5c410c62603a973990e11</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_sg_data_item"><sys_sg_data_item action="INSERT_OR_UPDATE"><condition_type>declarative</condition_type><description/><group_by/><name>TestList</name><query_condition/><query_condition_script/><sys_class_name>sys_sg_data_item</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2019-11-25 00:45:59</sys_created_on><sys_id>cd89410237d5c410c62603a973990e11</sys_id><sys_mod_count>0</sys_mod_count><sys_name>TestList</sys_name><sys_package display_value="Notification" source="x_387881_notificat">d5ae8fa937384010c62603a973990e87</sys_package><sys_policy/><sys_scope display_value="Notification">d5ae8fa937384010c62603a973990e87</sys_scope><sys_update_name>sys_sg_data_item_cd89410237d5c410c62603a973990e11</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2019-11-25 00:45:59</sys_updated_on><table>sys_user</table></sys_sg_data_item><sys_translated_text action="delete_multiple" query="documentkey=cd89410237d5c410c62603a973990e11"/></record_update>]]></payload>
+        <payload_hash>-382929298</payload_hash>
+        <record_name>TestList</record_name>
+        <reverted_from/>
+        <source>ddaec7e937384010c62603a973990ede</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2019-11-25 00:45:59</sys_created_on>
+        <sys_id>5989810237d5c410c62603a973990ec7</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>16ea005b8640000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2019-11-25 00:45:59</sys_updated_on>
+        <type>Data Item</type>
+        <update_guid>9189810215d5c410901749e8e91ac1c7</update_guid>
+        <update_guid_history>9189810215d5c410901749e8e91ac1c7:-382929298</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete/>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2019-11-25 06:16:12</sys_created_on>
+        <sys_db_object display_value="" name="sys_sg_data_item">sys_sg_data_item</sys_db_object>
+        <sys_id>4c6c8a8fbac3488ea77624adc6627f24</sys_id>
+        <sys_metadata>cd89410237d5c410c62603a973990e11</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>TestList</sys_name>
+        <sys_package display_value="Notification" source="x_387881_notificat">d5ae8fa937384010c62603a973990e87</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="Notification">d5ae8fa937384010c62603a973990e87</sys_scope>
+        <sys_scope_delete display_value="">03e7efd489e943679324f362d9a15631</sys_scope_delete>
+        <sys_update_name>sys_sg_data_item_cd89410237d5c410c62603a973990e11</sys_update_name>
+        <sys_update_version display_value="sys_sg_data_item_cd89410237d5c410c62603a973990e11">5989810237d5c410c62603a973990ec7</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2019-11-25 06:16:12</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>

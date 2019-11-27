@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_sg_button_instance">
+    <sys_sg_button_instance action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <button display_value="Confirm">6e08e81037494010c62603a973990e0b</button>
+        <color_theme>primary</color_theme>
+        <description/>
+        <field_name/>
+        <icon/>
+        <label>承認</label>
+        <location>footer</location>
+        <name>承認</name>
+        <order>20</order>
+        <parent>5323dbad37384010c62603a973990e00</parent>
+        <parent_table>sys_sg_screen</parent_table>
+        <sys_class_name>sys_sg_button_instance</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2019-11-26 07:03:26</sys_created_on>
+        <sys_id>33792b52375d0810c62603a973990ec4</sys_id>
+        <sys_mod_count>2</sys_mod_count>
+        <sys_name>承認</sys_name>
+        <sys_package display_value="Notification" source="x_387881_notificat">d5ae8fa937384010c62603a973990e87</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Notification">d5ae8fa937384010c62603a973990e87</sys_scope>
+        <sys_update_name>sys_sg_button_instance_33792b52375d0810c62603a973990ec4</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2019-11-26 07:21:08</sys_updated_on>
+        <table>x_387881_notificat_notification22</table>
+    </sys_sg_button_instance>
+    <sys_translated_text action="delete_multiple" query="documentkey=33792b52375d0810c62603a973990ec4"/>
+</record_update>

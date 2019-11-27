@@ -5,38 +5,38 @@
             <element>division</element>
             <hint/>
             <inactive>false</inactive>
-            <label>欠勤</label>
+            <label>早退</label>
             <language>en</language>
             <name>x_387881_notificat_division2</name>
-            <sequence/>
+            <sequence>0</sequence>
             <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2019-10-31 08:12:30</sys_created_on>
+            <sys_created_on>2019-11-01 05:32:17</sys_created_on>
             <sys_domain>global</sys_domain>
             <sys_domain_path>/</sys_domain_path>
-            <sys_id>77effd4637788010c62603a973990eb2</sys_id>
+            <sys_id>76d4661a3734c010c62603a973990e2a</sys_id>
             <sys_mod_count>1</sys_mod_count>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2019-11-01 05:31:21</sys_updated_on>
-            <value>hh</value>
+            <sys_updated_on>2019-11-14 07:03:48</sys_updated_on>
+            <value>早退</value>
         </sys_choice>
         <sys_choice action="INSERT_OR_UPDATE">
             <dependent_value/>
             <element>division</element>
             <hint/>
             <inactive>false</inactive>
-            <label>早退</label>
+            <label>欠勤</label>
             <language>en</language>
             <name>x_387881_notificat_division2</name>
-            <sequence/>
+            <sequence>1</sequence>
             <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2019-11-01 05:32:17</sys_created_on>
+            <sys_created_on>2019-10-31 08:12:30</sys_created_on>
             <sys_domain>global</sys_domain>
             <sys_domain_path>/</sys_domain_path>
-            <sys_id>76d4661a3734c010c62603a973990e2a</sys_id>
-            <sys_mod_count>0</sys_mod_count>
+            <sys_id>77effd4637788010c62603a973990eb2</sys_id>
+            <sys_mod_count>2</sys_mod_count>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2019-11-01 05:32:17</sys_updated_on>
-            <value>早退</value>
+            <sys_updated_on>2019-11-14 07:03:48</sys_updated_on>
+            <value>hh</value>
         </sys_choice>
         <sys_choice action="INSERT_OR_UPDATE">
             <dependent_value/>
@@ -46,15 +46,15 @@
             <label>遅刻</label>
             <language>en</language>
             <name>x_387881_notificat_division2</name>
-            <sequence/>
+            <sequence>2</sequence>
             <sys_created_by>admin</sys_created_by>
             <sys_created_on>2019-11-01 05:31:59</sys_created_on>
             <sys_domain>global</sys_domain>
             <sys_domain_path>/</sys_domain_path>
             <sys_id>25b4261a3734c010c62603a973990e5e</sys_id>
-            <sys_mod_count>0</sys_mod_count>
+            <sys_mod_count>1</sys_mod_count>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2019-11-01 05:31:59</sys_updated_on>
+            <sys_updated_on>2019-11-14 07:03:48</sys_updated_on>
             <value>遅刻</value>
         </sys_choice>
         <sys_choice action="INSERT_OR_UPDATE">
@@ -65,15 +65,15 @@
             <label>全休</label>
             <language>en</language>
             <name>x_387881_notificat_division2</name>
-            <sequence>0</sequence>
+            <sequence>3</sequence>
             <sys_created_by>admin</sys_created_by>
             <sys_created_on>2019-10-31 08:12:38</sys_created_on>
             <sys_domain>global</sys_domain>
             <sys_domain_path>/</sys_domain_path>
             <sys_id>7effbd0637788010c62603a973990e01</sys_id>
-            <sys_mod_count>2</sys_mod_count>
+            <sys_mod_count>3</sys_mod_count>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2019-11-01 05:29:18</sys_updated_on>
+            <sys_updated_on>2019-11-14 07:03:48</sys_updated_on>
             <value>gg</value>
         </sys_choice>
         <sys_choice action="INSERT_OR_UPDATE">
@@ -84,16 +84,35 @@
             <label>半休</label>
             <language>en</language>
             <name>x_387881_notificat_division2</name>
-            <sequence>1</sequence>
+            <sequence>4</sequence>
             <sys_created_by>admin</sys_created_by>
             <sys_created_on>2019-11-01 02:08:09</sys_created_on>
             <sys_domain>global</sys_domain>
             <sys_domain_path>/</sys_domain_path>
             <sys_id>aa26fd5a37b0c010c62603a973990efd</sys_id>
-            <sys_mod_count>1</sys_mod_count>
+            <sys_mod_count>2</sys_mod_count>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2019-11-01 05:29:37</sys_updated_on>
+            <sys_updated_on>2019-11-14 07:03:48</sys_updated_on>
             <value>ｆｆｆｆｆ</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>division</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>出張</label>
+            <language>en</language>
+            <name>x_387881_notificat_division2</name>
+            <sequence>5</sequence>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2019-11-14 07:03:48</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>5c86f5623745c010c62603a973990e71</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2019-11-14 07:03:48</sys_updated_on>
+            <value>出張</value>
         </sys_choice>
         <sys_choice_set action="INSERT_OR_UPDATE">
             <element>division</element>

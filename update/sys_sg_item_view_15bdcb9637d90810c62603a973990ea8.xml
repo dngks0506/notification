@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_sg_item_view">
+    <sys_sg_item_view action="INSERT_OR_UPDATE">
+        <data_item/>
+        <dependency_fields>short description-41927,phone call-41928,date-32752,name-9763</dependency_fields>
+        <item_view_json>{"Type":"ViewGroup","Margin":{"Top":16,"Bottom":16},"Orientation":"Horizontal","Alignment":"Center","Distribution":"Auto","Children":[{"Type":"ViewGroup","Orientation":"Vertical","Alignment":"Left","Distribution":"Auto","Children":[{"Type":"Text","Margin":{"Top":3},"CellId":"short description","TextColor":"#293e40","TextAlignment":"Left","MaxLines":1,"Font":{"Weight":"regular","Size":12},"Width":60,"Text":"PLACEHOLDER","Id":41927},{"Type":"Text","Width":60,"Margin":{"Top":9},"Text":"PLACEHOLDER","CellId":"phone call","TextColor":"#293e40","TextAlignment":"Left","MaxLines":1,"Font":{"Weight":"regular","Size":12},"Id":41928}],"Margin":{},"Width":60,"Id":12259},{"Type":"Text","Margin":{"Right":13,"Left":8},"TextColor":"#ff8c3e","TextAlignment":"Left","MaxLines":1,"Font":{"Weight":"regular"},"CornerRadius":2,"BackgroundColor":"#ff924e","Height":46,"Width":3,"Id":22124},{"Type":"ViewGroup","Orientation":"Vertical","Alignment":"Left","Distribution":"Auto","Children":[{"Type":"Text","TextColor":"#293e40","TextAlignment":"Left","MaxLines":1,"Font":{"Weight":"medium","Size":16},"CellId":"date","Id":32752},{"Type":"ViewGroup","Margin":{"Top":6},"Orientation":"Horizontal","Alignment":"Center","Distribution":"Auto","Children":[{"Type":"Text","TextColor":"#7d8a8c","TextAlignment":"Left","MaxLines":1,"Font":{"Weight":"regular","Size":13},"CellId":"name","Id":9763}],"Id":34349}],"Margin":{},"Id":12261}],"Id":28090}</item_view_json>
+        <name>work</name>
+        <short_description/>
+        <sys_class_name>sys_sg_item_view</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2019-11-26 05:03:17</sys_created_on>
+        <sys_id>15bdcb9637d90810c62603a973990ea8</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>work</sys_name>
+        <sys_package display_value="Notification" source="x_387881_notificat">d5ae8fa937384010c62603a973990e87</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Notification">d5ae8fa937384010c62603a973990e87</sys_scope>
+        <sys_update_name>sys_sg_item_view_15bdcb9637d90810c62603a973990ea8</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2019-11-26 05:03:17</sys_updated_on>
+        <table>x_387881_notificat_notification22</table>
+        <ui_styles/>
+    </sys_sg_item_view>
+    <sys_translated_text action="delete_multiple" query="documentkey=15bdcb9637d90810c62603a973990ea8"/>
+</record_update>

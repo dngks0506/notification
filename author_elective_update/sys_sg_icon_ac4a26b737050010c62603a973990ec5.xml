@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_sg_icon">
+    <sys_sg_icon action="DELETE">
+        <icon>{"Shape":"Circle","FontName":"now-mobile-icons","Value":"e949","Name":"icon-Megaphone","FontColor":"#FFFFFF","BackgroundColor":"#2e2e2e","type":"user"}</icon>
+        <name>User Icon</name>
+        <sys_class_name>sys_sg_icon</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2019-11-18 08:02:20</sys_created_on>
+        <sys_id>ac4a26b737050010c62603a973990ec5</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>User Icon</sys_name>
+        <sys_package display_value="Notification" source="x_387881_notificat">d5ae8fa937384010c62603a973990e87</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Notification">d5ae8fa937384010c62603a973990e87</sys_scope>
+        <sys_update_name>sys_sg_icon_ac4a26b737050010c62603a973990ec5</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2019-11-18 08:02:20</sys_updated_on>
+        <type>user</type>
+    </sys_sg_icon>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="Notification">d5ae8fa937384010c62603a973990e87</application>
+        <file_path/>
+        <instance_id>b353b656db6cdf807e55d5b0cf96198f</instance_id>
+        <instance_name>dev51229</instance_name>
+        <name>sys_sg_icon_ac4a26b737050010c62603a973990ec5</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_sg_icon"><sys_sg_icon action="INSERT_OR_UPDATE"><icon>{"Shape":"Circle","FontName":"now-mobile-icons","Value":"e949","Name":"icon-Megaphone","FontColor":"#FFFFFF","BackgroundColor":"#2e2e2e","type":"user"}</icon><name>User Icon</name><sys_class_name>sys_sg_icon</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2019-11-18 08:02:20</sys_created_on><sys_id>ac4a26b737050010c62603a973990ec5</sys_id><sys_mod_count>0</sys_mod_count><sys_name>User Icon</sys_name><sys_package display_value="Notification" source="x_387881_notificat">d5ae8fa937384010c62603a973990e87</sys_package><sys_policy/><sys_scope display_value="Notification">d5ae8fa937384010c62603a973990e87</sys_scope><sys_update_name>sys_sg_icon_ac4a26b737050010c62603a973990ec5</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2019-11-18 08:02:20</sys_updated_on><type>user</type></sys_sg_icon></record_update>]]></payload>
+        <payload_hash>-278604136</payload_hash>
+        <record_name>User Icon</record_name>
+        <reverted_from/>
+        <source>ddaec7e937384010c62603a973990ede</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2019-11-18 08:02:20</sys_created_on>
+        <sys_id>3c4a26b737050010c62603a973990ec8</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>16e7d88b0670000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2019-11-18 08:02:20</sys_updated_on>
+        <type>Icon</type>
+        <update_guid>744a26b7650500107243f78a193168c8</update_guid>
+        <update_guid_history>744a26b7650500107243f78a193168c8:-278604136</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete/>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2019-11-22 05:13:44</sys_created_on>
+        <sys_db_object display_value="" name="sys_sg_icon">sys_sg_icon</sys_db_object>
+        <sys_id>8ef13f4f8a3447149e671b59f05fe410</sys_id>
+        <sys_metadata>ac4a26b737050010c62603a973990ec5</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>User Icon</sys_name>
+        <sys_package display_value="Notification" source="x_387881_notificat">d5ae8fa937384010c62603a973990e87</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="Notification">d5ae8fa937384010c62603a973990e87</sys_scope>
+        <sys_scope_delete display_value="">03e7efd489e943679324f362d9a15631</sys_scope_delete>
+        <sys_update_name>sys_sg_icon_ac4a26b737050010c62603a973990ec5</sys_update_name>
+        <sys_update_version display_value="sys_sg_icon_ac4a26b737050010c62603a973990ec5">3c4a26b737050010c62603a973990ec8</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2019-11-22 05:13:44</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>
