@@ -11,7 +11,7 @@
         <condition_type>declarative</condition_type>
         <confirm_label/>
         <confirmation_message/>
-        <context>record</context>
+        <context>global</context>
         <description/>
         <destination_screen/>
         <external_browser>false</external_browser>
@@ -23,7 +23,7 @@
         <jump_to_screen>false</jump_to_screen>
         <link_label/>
         <link_url/>
-        <mail_address/>
+        <mail_address>kim-gaeun@mki.co.jp</mail_address>
         <mail_content>事由がおかしいです</mail_content>
         <mail_subject>Reject Email</mail_subject>
         <name>Reject reason</name>
@@ -34,7 +34,7 @@
         <phone_type>cellular</phone_type>
         <preconditions>none</preconditions>
         <relative_url>false</relative_url>
-        <roles/>
+        <roles>ui_notification_admin</roles>
         <save_signature_before_action_execution>false</save_signature_before_action_execution>
         <select_current_record>false</select_current_record>
         <show_acknowledgement>false</show_acknowledgement>
@@ -49,16 +49,16 @@
         <sys_created_by>admin</sys_created_by>
         <sys_created_on>2019-11-20 06:48:35</sys_created_on>
         <sys_id>378ca46837558010c62603a973990e8a</sys_id>
-        <sys_mod_count>0</sys_mod_count>
+        <sys_mod_count>2</sys_mod_count>
         <sys_name>Reject reason</sys_name>
         <sys_package display_value="Notification" source="x_387881_notificat">d5ae8fa937384010c62603a973990e87</sys_package>
         <sys_policy/>
         <sys_scope display_value="Notification">d5ae8fa937384010c62603a973990e87</sys_scope>
         <sys_update_name>sys_sg_button_378ca46837558010c62603a973990e8a</sys_update_name>
         <sys_updated_by>admin</sys_updated_by>
-        <sys_updated_on>2019-11-20 06:48:35</sys_updated_on>
+        <sys_updated_on>2019-11-29 01:45:41</sys_updated_on>
         <table>x_387881_notificat_notification22</table>
-        <take_value_from_field>true</take_value_from_field>
+        <take_value_from_field>false</take_value_from_field>
         <type>email</type>
         <use_overlay>false</use_overlay>
         <write_back_action_item/>

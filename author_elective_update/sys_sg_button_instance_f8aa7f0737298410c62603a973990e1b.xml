@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_sg_button_instance">
+    <sys_sg_button_instance action="DELETE">
+        <active>true</active>
+        <button display_value="Update notification">44cae3ed37784010c62603a973990e1b</button>
+        <color_theme>primary</color_theme>
+        <description/>
+        <field_name/>
+        <icon/>
+        <label>update</label>
+        <location>trailing_swipe</location>
+        <name>update</name>
+        <order>40</order>
+        <parent>35e93485376dc410c62603a973990ea3</parent>
+        <parent_table>sys_sg_master_item</parent_table>
+        <sys_class_name>sys_sg_button_instance</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2019-12-11 02:29:28</sys_created_on>
+        <sys_id>f8aa7f0737298410c62603a973990e1b</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>update</sys_name>
+        <sys_package display_value="Notification" source="x_387881_notificat">d5ae8fa937384010c62603a973990e87</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Notification">d5ae8fa937384010c62603a973990e87</sys_scope>
+        <sys_update_name>sys_sg_button_instance_f8aa7f0737298410c62603a973990e1b</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2019-12-11 02:29:28</sys_updated_on>
+        <table>x_387881_notificat_notification22</table>
+    </sys_sg_button_instance>
+    <sys_translated_text action="delete_multiple" query="documentkey=f8aa7f0737298410c62603a973990e1b"/>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="Notification">d5ae8fa937384010c62603a973990e87</application>
+        <file_path/>
+        <instance_id>b353b656db6cdf807e55d5b0cf96198f</instance_id>
+        <instance_name>dev51229</instance_name>
+        <name>sys_sg_button_instance_f8aa7f0737298410c62603a973990e1b</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_sg_button_instance"><sys_sg_button_instance action="INSERT_OR_UPDATE"><active>true</active><button display_value="Update notification">44cae3ed37784010c62603a973990e1b</button><color_theme>primary</color_theme><description/><field_name/><icon/><label>update</label><location>trailing_swipe</location><name>update</name><order>40</order><parent>35e93485376dc410c62603a973990ea3</parent><parent_table>sys_sg_master_item</parent_table><sys_class_name>sys_sg_button_instance</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2019-12-11 02:29:28</sys_created_on><sys_id>f8aa7f0737298410c62603a973990e1b</sys_id><sys_mod_count>0</sys_mod_count><sys_name>update</sys_name><sys_package display_value="Notification" source="x_387881_notificat">d5ae8fa937384010c62603a973990e87</sys_package><sys_policy/><sys_scope display_value="Notification">d5ae8fa937384010c62603a973990e87</sys_scope><sys_update_name>sys_sg_button_instance_f8aa7f0737298410c62603a973990e1b</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2019-12-11 02:29:28</sys_updated_on><table>x_387881_notificat_notification22</table></sys_sg_button_instance><sys_translated_text action="delete_multiple" query="documentkey=f8aa7f0737298410c62603a973990e1b"/></record_update>]]></payload>
+        <payload_hash>304853219</payload_hash>
+        <record_name>update</record_name>
+        <reverted_from/>
+        <source>5c132b2e37110010c62603a973990e95</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2019-12-11 02:29:28</sys_created_on>
+        <sys_id>bcaa7f0737298410c62603a973990e1d</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>16ef2ca35020000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2019-12-11 02:29:28</sys_updated_on>
+        <type>Function instance</type>
+        <update_guid>f4aa7f07d1298410a865a2d3d7fd6a1d</update_guid>
+        <update_guid_history>f4aa7f07d1298410a865a2d3d7fd6a1d:304853219</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete/>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2019-12-11 03:28:03</sys_created_on>
+        <sys_db_object display_value="" name="sys_sg_button_instance">sys_sg_button_instance</sys_db_object>
+        <sys_id>4f1efc59a44e471a81b8508097095444</sys_id>
+        <sys_metadata>f8aa7f0737298410c62603a973990e1b</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>update</sys_name>
+        <sys_package display_value="Notification" source="x_387881_notificat">d5ae8fa937384010c62603a973990e87</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="Notification">d5ae8fa937384010c62603a973990e87</sys_scope>
+        <sys_scope_delete display_value="">03e7efd489e943679324f362d9a15631</sys_scope_delete>
+        <sys_update_name>sys_sg_button_instance_f8aa7f0737298410c62603a973990e1b</sys_update_name>
+        <sys_update_version display_value="sys_sg_button_instance_f8aa7f0737298410c62603a973990e1b">bcaa7f0737298410c62603a973990e1d</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2019-12-11 03:28:03</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>

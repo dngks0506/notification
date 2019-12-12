@@ -3,7 +3,7 @@
         <interleave_order_direction>asc</interleave_order_direction>
         <name>working at home</name>
         <order/>
-        <screen display_value="Working at home">71502a4537950410c62603a973990e7b</screen>
+        <screen/>
         <sys_class_name>sys_sg_item_stream_segment</sys_class_name>
         <sys_created_by>admin</sys_created_by>
         <sys_created_on>2019-11-27 00:31:30</sys_created_on>

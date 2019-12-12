@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_sg_screen_field">
+    <sys_sg_screen_field action="DELETE">
+        <data_item_field_name>type.division</data_item_field_name>
+        <description_text/>
+        <description_text_field/>
+        <description_text_type/>
+        <field_name/>
+        <hidden>false</hidden>
+        <order>30</order>
+        <record_id_field/>
+        <screen display_value="Details">f5e93485376dc410c62603a973990e9d</screen>
+        <screen_data_item_table>x_387881_notificat_notification22</screen_data_item_table>
+        <sys_class_name>sys_sg_screen_field</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2019-12-04 07:27:28</sys_created_on>
+        <sys_id>39bb3009376dc410c62603a973990e75</sys_id>
+        <sys_mod_count>1</sys_mod_count>
+        <sys_name>type.division</sys_name>
+        <sys_package display_value="Notification" source="x_387881_notificat">d5ae8fa937384010c62603a973990e87</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Notification">d5ae8fa937384010c62603a973990e87</sys_scope>
+        <sys_update_name>sys_sg_screen_field_39bb3009376dc410c62603a973990e75</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2019-12-04 07:30:19</sys_updated_on>
+        <type>auto</type>
+        <value_only>false</value_only>
+    </sys_sg_screen_field>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="Notification">d5ae8fa937384010c62603a973990e87</application>
+        <file_path/>
+        <instance_id>b353b656db6cdf807e55d5b0cf96198f</instance_id>
+        <instance_name>dev51229</instance_name>
+        <name>sys_sg_screen_field_39bb3009376dc410c62603a973990e75</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_sg_screen_field"><sys_sg_screen_field action="INSERT_OR_UPDATE"><data_item_field_name>type.division</data_item_field_name><description_text/><description_text_field/><description_text_type/><field_name/><hidden>false</hidden><order>30</order><record_id_field/><screen display_value="Details">f5e93485376dc410c62603a973990e9d</screen><screen_data_item_table>x_387881_notificat_notification22</screen_data_item_table><sys_class_name>sys_sg_screen_field</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2019-12-04 07:27:28</sys_created_on><sys_id>39bb3009376dc410c62603a973990e75</sys_id><sys_mod_count>1</sys_mod_count><sys_name>type.division</sys_name><sys_package display_value="Notification" source="x_387881_notificat">d5ae8fa937384010c62603a973990e87</sys_package><sys_policy/><sys_scope display_value="Notification">d5ae8fa937384010c62603a973990e87</sys_scope><sys_update_name>sys_sg_screen_field_39bb3009376dc410c62603a973990e75</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2019-12-04 07:30:19</sys_updated_on><type>auto</type><value_only>false</value_only></sys_sg_screen_field></record_update>]]></payload>
+        <payload_hash>230468715</payload_hash>
+        <record_name>type.division</record_name>
+        <reverted_from/>
+        <source>5c132b2e37110010c62603a973990e95</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2019-12-04 07:30:19</sys_created_on>
+        <sys_id>ef5cb809376dc410c62603a973990ecb</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>16ecfd121080000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2019-12-04 07:30:19</sys_updated_on>
+        <type>Screen fields</type>
+        <update_guid>6b5cb809276dc4100c9f9d3b5d0fcfcb</update_guid>
+        <update_guid_history>6b5cb809276dc4100c9f9d3b5d0fcfcb:230468715,7dbb3009916dc4109ed85e61ac483e76:1288782829</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete/>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2019-12-04 07:33:02</sys_created_on>
+        <sys_db_object display_value="" name="sys_sg_screen_field">sys_sg_screen_field</sys_db_object>
+        <sys_id>3d1738f3d4c94c9aaa7fa0912cc30944</sys_id>
+        <sys_metadata>39bb3009376dc410c62603a973990e75</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>type.division</sys_name>
+        <sys_package display_value="Notification" source="x_387881_notificat">d5ae8fa937384010c62603a973990e87</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="Notification">d5ae8fa937384010c62603a973990e87</sys_scope>
+        <sys_scope_delete display_value="">03e7efd489e943679324f362d9a15631</sys_scope_delete>
+        <sys_update_name>sys_sg_screen_field_39bb3009376dc410c62603a973990e75</sys_update_name>
+        <sys_update_version display_value="sys_sg_screen_field_39bb3009376dc410c62603a973990e75">ef5cb809376dc410c62603a973990ecb</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2019-12-04 07:33:02</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>

@@ -37,7 +37,7 @@
         <phone_type>cellular</phone_type>
         <preconditions>none</preconditions>
         <relative_url>true</relative_url>
-        <roles>x_387881_notificat.confirm_admin,ui_notification_admin</roles>
+        <roles>ui_notification_admin</roles>
         <save_signature_before_action_execution>false</save_signature_before_action_execution>
         <select_current_record>false</select_current_record>
         <show_acknowledgement>false</show_acknowledgement>

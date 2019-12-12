@@ -53,7 +53,7 @@
         <sys_class_name>sys_dictionary</sys_class_name>
         <sys_created_by>admin</sys_created_by>
         <sys_created_on>2019-11-15 01:07:54</sys_created_on>
-        <sys_id>e78e61fe37410410c62603a973990e6c</sys_id>
+        <sys_id>5601236e37110010c62603a973990e07</sys_id>
         <sys_mod_count>0</sys_mod_count>
         <sys_name>Expense</sys_name>
         <sys_package display_value="Notification" source="x_387881_notificat">d5ae8fa937384010c62603a973990e87</sys_package>
@@ -61,7 +61,7 @@
         <sys_scope display_value="Notification">d5ae8fa937384010c62603a973990e87</sys_scope>
         <sys_update_name>sys_dictionary_x_387881_notificat_notification22_expense</sys_update_name>
         <sys_updated_by>admin</sys_updated_by>
-        <sys_updated_on>2019-11-15 01:07:54</sys_updated_on>
+        <sys_updated_on>2019-11-27 01:05:01</sys_updated_on>
         <table_reference>false</table_reference>
         <text_index>false</text_index>
         <unique>false</unique>

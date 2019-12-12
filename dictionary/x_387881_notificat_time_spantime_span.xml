@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element attributes="update_synch=true" extends="sys_sg_time_span_item_stream" label="Time span" max_length="40" name="x_387881_notificat_time_spantime_span" type="collection">
+        <element label="end date" max_length="40" name="end_date" type="glide_date_time"/>
+        <element label="start date" max_length="40" name="start_date" type="glide_date_time"/>
+    </element>
+</database>

@@ -10,16 +10,16 @@
         <sys_created_by>admin</sys_created_by>
         <sys_created_on>2019-10-30 02:42:56</sys_created_on>
         <sys_id>f4da27ed37784010c62603a973990e15</sys_id>
-        <sys_mod_count>22</sys_mod_count>
+        <sys_mod_count>27</sys_mod_count>
         <sys_name>Update</sys_name>
         <sys_package display_value="Notification" source="x_387881_notificat">d5ae8fa937384010c62603a973990e87</sys_package>
         <sys_policy/>
         <sys_scope display_value="Notification">d5ae8fa937384010c62603a973990e87</sys_scope>
         <sys_update_name>sys_sg_write_back_action_item_f4da27ed37784010c62603a973990e15</sys_update_name>
         <sys_updated_by>admin</sys_updated_by>
-        <sys_updated_on>2019-11-18 04:27:27</sys_updated_on>
+        <sys_updated_on>2019-12-04 07:40:25</sys_updated_on>
         <table>x_387881_notificat_notification22</table>
-        <template>date={{Date}}^name={{Name}}^phone_call={{phone call}}^short_description={{short description}}^type={{Type}}^state=unconfirmed^EQ</template>
+        <template>name={{Name}}^phone_call={{phone call}}^short_description={{short description}}^type={{Type}}^state=unconfirmed^end_date={{end date}}^start_date={{start date}}^EQ</template>
         <type>update</type>
         <use_current_record_as_condition>true</use_current_record_as_condition>
     </sys_sg_write_back_action_item>

@@ -3,7 +3,7 @@
         <data_item display_value="Work at home">5a90aa4537950410c62603a973990e23</data_item>
         <data_source_label>Calendar</data_source_label>
         <end_date_field>end_date</end_date_field>
-        <screen display_value="work at home">ad27dad637190810c62603a973990e77</screen>
+        <screen/>
         <start_date_field>start_date</start_date_field>
         <sys_class_name>sys_sg_calendar_data_source</sys_class_name>
         <sys_created_by>admin</sys_created_by>

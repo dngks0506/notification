@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_sg_item_stream_m2m_segment">
+    <sys_sg_item_stream_m2m_segment action="DELETE">
+        <item_stream display_value="My Open Todos">65cd82b1378d0010c62603a973990eb6</item_stream>
+        <segment display_value="working at home">202ee3aa37510010c62603a973990ebc</segment>
+        <sys_class_name>sys_sg_item_stream_m2m_segment</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2019-11-27 04:22:45</sys_created_on>
+        <sys_id>0d4e8c3a37d10010c62603a973990e1a</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name/>
+        <sys_package display_value="Notification" source="x_387881_notificat">d5ae8fa937384010c62603a973990e87</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Notification">d5ae8fa937384010c62603a973990e87</sys_scope>
+        <sys_update_name>sys_sg_item_stream_m2m_segment_0d4e8c3a37d10010c62603a973990e1a</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2019-11-27 04:22:45</sys_updated_on>
+    </sys_sg_item_stream_m2m_segment>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="Notification">d5ae8fa937384010c62603a973990e87</application>
+        <file_path/>
+        <instance_id>b353b656db6cdf807e55d5b0cf96198f</instance_id>
+        <instance_name>dev51229</instance_name>
+        <name>sys_sg_item_stream_m2m_segment_0d4e8c3a37d10010c62603a973990e1a</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_sg_item_stream_m2m_segment"><sys_sg_item_stream_m2m_segment action="INSERT_OR_UPDATE"><item_stream display_value="My Open Todos">65cd82b1378d0010c62603a973990eb6</item_stream><segment display_value="working at home">202ee3aa37510010c62603a973990ebc</segment><sys_class_name>sys_sg_item_stream_m2m_segment</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2019-11-27 04:22:45</sys_created_on><sys_id>0d4e8c3a37d10010c62603a973990e1a</sys_id><sys_mod_count>0</sys_mod_count><sys_name/><sys_package display_value="Notification" source="x_387881_notificat">d5ae8fa937384010c62603a973990e87</sys_package><sys_policy/><sys_scope display_value="Notification">d5ae8fa937384010c62603a973990e87</sys_scope><sys_update_name>sys_sg_item_stream_m2m_segment_0d4e8c3a37d10010c62603a973990e1a</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2019-11-27 04:22:45</sys_updated_on></sys_sg_item_stream_m2m_segment></record_update>]]></payload>
+        <payload_hash>877131393</payload_hash>
+        <record_name/>
+        <reverted_from/>
+        <source>5c132b2e37110010c62603a973990e95</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2019-11-27 04:22:45</sys_created_on>
+        <sys_id>674e047a37d10010c62603a973990ecf</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>16eab18e2530000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2019-11-27 04:22:45</sys_updated_on>
+        <type>Item Stream M2M Segment</type>
+        <update_guid>af4e047af8d10010a7eece11db0557ce</update_guid>
+        <update_guid_history>af4e047af8d10010a7eece11db0557ce:877131393</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete/>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2019-11-27 04:25:12</sys_created_on>
+        <sys_db_object display_value="" name="sys_sg_item_stream_m2m_segment">sys_sg_item_stream_m2m_segment</sys_db_object>
+        <sys_id>233fad8f4bff49debd9073578dfa8544</sys_id>
+        <sys_metadata>0d4e8c3a37d10010c62603a973990e1a</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name/>
+        <sys_package display_value="Notification" source="x_387881_notificat">d5ae8fa937384010c62603a973990e87</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="Notification">d5ae8fa937384010c62603a973990e87</sys_scope>
+        <sys_scope_delete display_value="">03e7efd489e943679324f362d9a15631</sys_scope_delete>
+        <sys_update_name>sys_sg_item_stream_m2m_segment_0d4e8c3a37d10010c62603a973990e1a</sys_update_name>
+        <sys_update_version display_value="sys_sg_item_stream_m2m_segment_0d4e8c3a37d10010c62603a973990e1a">674e047a37d10010c62603a973990ecf</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2019-11-27 04:25:12</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>

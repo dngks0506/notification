@@ -6,7 +6,7 @@
         <datasource_table_condition table="x_387881_notificat_notification22">start_dateONToday@javascript:gs.beginningOfToday()@javascript:gs.endOfToday()^EQ<item endquery="false" field="start_date" goto="false" newquery="false" operator="ON" or="false" value="Today@javascript:gs.beginningOfToday()@javascript:gs.endOfToday()"/>
             <item endquery="true" field="" goto="false" newquery="false" operator="=" or="false" value=""/>
         </datasource_table_condition>
-        <embedded_screen display_value="work at home">ad27dad637190810c62603a973990e77</embedded_screen>
+        <embedded_screen/>
         <item_view display_value="CalendarView">fd0b00ee379d0810c62603a973990ee6</item_view>
         <name>Calendar</name>
         <screen/>

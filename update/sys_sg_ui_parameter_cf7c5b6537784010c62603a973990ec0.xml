@@ -12,7 +12,7 @@
         <input_type>text</input_type>
         <mandatory>true</mandatory>
         <multi_select>false</multi_select>
-        <name>Due Date</name>
+        <name>Start date</name>
         <order/>
         <parameter_type>button</parameter_type>
         <placeholder/>
@@ -23,14 +23,14 @@
         <sys_created_by>admin</sys_created_by>
         <sys_created_on>2019-10-30 01:40:17</sys_created_on>
         <sys_id>cf7c5b6537784010c62603a973990ec0</sys_id>
-        <sys_mod_count>0</sys_mod_count>
-        <sys_name>Due Date</sys_name>
+        <sys_mod_count>1</sys_mod_count>
+        <sys_name>Start date</sys_name>
         <sys_package display_value="Notification" source="x_387881_notificat">d5ae8fa937384010c62603a973990e87</sys_package>
         <sys_policy/>
         <sys_scope display_value="Notification">d5ae8fa937384010c62603a973990e87</sys_scope>
         <sys_update_name>sys_sg_ui_parameter_cf7c5b6537784010c62603a973990ec0</sys_update_name>
         <sys_updated_by>admin</sys_updated_by>
-        <sys_updated_on>2019-10-30 01:40:17</sys_updated_on>
+        <sys_updated_on>2019-11-28 04:45:12</sys_updated_on>
         <table_name/>
     </sys_sg_ui_parameter>
     <sys_translated_text action="delete_multiple" query="documentkey=cf7c5b6537784010c62603a973990ec0"/>

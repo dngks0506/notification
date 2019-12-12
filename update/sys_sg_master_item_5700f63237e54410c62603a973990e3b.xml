@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_sg_master_item">
+    <sys_sg_master_item action="INSERT_OR_UPDATE">
+        <condition/>
+        <condition_order/>
+        <datasource_table>x_387881_notificat_notification22</datasource_table>
+        <datasource_table_condition table="x_387881_notificat_notification22">start_dateISNOTEMPTY^EQ<item endquery="false" field="start_date" goto="false" newquery="false" operator="ISNOTEMPTY" or="false" value=""/>
+            <item endquery="true" field="" goto="false" newquery="false" operator="=" or="false" value=""/>
+        </datasource_table_condition>
+        <embedded_screen/>
+        <item_view display_value="Notification register item view">8f23d7ad37384010c62603a973990e9c</item_view>
+        <name>ss</name>
+        <screen/>
+        <sys_class_name>sys_sg_master_item</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2019-12-10 02:25:59</sys_created_on>
+        <sys_id>5700f63237e54410c62603a973990e3b</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>ss</sys_name>
+        <sys_package display_value="Notification" source="x_387881_notificat">d5ae8fa937384010c62603a973990e87</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Notification">d5ae8fa937384010c62603a973990e87</sys_scope>
+        <sys_update_name>sys_sg_master_item_5700f63237e54410c62603a973990e3b</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2019-12-10 02:25:59</sys_updated_on>
+        <table/>
+    </sys_sg_master_item>
+</record_update>

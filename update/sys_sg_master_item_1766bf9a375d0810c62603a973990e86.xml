@@ -4,7 +4,7 @@
         <condition_order/>
         <datasource_table>x_387881_notificat_notification22</datasource_table>
         <datasource_table_condition/>
-        <embedded_screen display_value="Working at home">71502a4537950410c62603a973990e7b</embedded_screen>
+        <embedded_screen/>
         <item_view display_value="Business Trip detail item view">1830e4fd37f84010c62603a973990e61</item_view>
         <name>test</name>
         <screen/>

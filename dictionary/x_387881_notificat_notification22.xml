@@ -1,15 +1,16 @@
 <?xml version="1.0" encoding="UTF-8"?><database>
-    <element label="Notification22" max_length="40" name="x_387881_notificat_notification22" type="collection">
+    <element audit="true" label="Notification22" max_length="40" name="x_387881_notificat_notification22" type="collection">
         <element label="active" max_length="40" name="active" type="boolean"/>
+        <element label="Additional comments" max_length="4000" name="comments" type="journal_input"/>
         <element label="Date" max_length="40" name="date" type="due_date"/>
-        <element display="true" label="End Date" max_length="100" name="end_date" type="glide_date_time"/>
+        <element label="End Date" max_length="100" name="end_date" type="glide_date_time"/>
         <element label="Expense" max_length="20" name="expense" type="currency"/>
         <element label="Name" max_length="40" name="name" type="string_full_utf8"/>
         <element label="Number" max_length="20" name="number" type="decimal"/>
         <element label="phone call" mandatory="true" max_length="40" name="phone_call" type="phone_number_e164"/>
         <element label="place" max_length="255" name="place" type="string_full_utf8"/>
         <element label="Reason" max_length="255" name="reason" type="string_full_utf8"/>
-        <element label="short description" max_length="40" name="short_description" type="string"/>
+        <element label="short description" max_length="100" name="short_description" type="string"/>
         <element attributes="calendar_elements=number;short_description;state" label="Start Date" max_length="100" name="start_date" type="glide_date_time"/>
         <element attributes="edge_encryption_enabled=true" choice="1" default="unconfirmed" label="State" max_length="40" name="state" type="choice">
             <choice>
@@ -20,5 +21,8 @@
         </element>
         <element attributes="edge_encryption_enabled=true" label="Type" max_length="40" name="type" reference="x_387881_notificat_division2" type="reference"/>
         <element attributes="allow_tables" label="upload image" max_length="40" name="upload_image" type="user_image"/>
+        <index name="index">
+            <element name="type"/>
+        </index>
     </element>
 </database>

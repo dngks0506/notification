@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_documentation element="comments" label="Additional comments" language="en" table="x_387881_notificat_notification22">
+        <sys_documentation action="INSERT_OR_UPDATE">
+            <element>comments</element>
+            <help/>
+            <hint/>
+            <label>Additional comments</label>
+            <language>en</language>
+            <name>x_387881_notificat_notification22</name>
+            <plural>Additional comments</plural>
+            <sys_class_name>sys_documentation</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2019-12-06 04:15:03</sys_created_on>
+            <sys_id>f2d2e2ed37e14010c62603a973990ede</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>Additional comments</sys_name>
+            <sys_package display_value="Notification" source="x_387881_notificat">d5ae8fa937384010c62603a973990e87</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="Notification">d5ae8fa937384010c62603a973990e87</sys_scope>
+            <sys_update_name>sys_documentation_x_387881_notificat_notification22_comments_en</sys_update_name>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2019-12-06 04:15:03</sys_updated_on>
+            <url/>
+            <url_target/>
+        </sys_documentation>
+    </sys_documentation>
+</record_update>

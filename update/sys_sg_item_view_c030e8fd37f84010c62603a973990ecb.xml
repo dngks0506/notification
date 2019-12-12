@@ -9,14 +9,14 @@
         <sys_created_by>admin</sys_created_by>
         <sys_created_on>2019-10-30 06:35:33</sys_created_on>
         <sys_id>c030e8fd37f84010c62603a973990ecb</sys_id>
-        <sys_mod_count>32</sys_mod_count>
+        <sys_mod_count>41</sys_mod_count>
         <sys_name>Business Trip item view</sys_name>
         <sys_package display_value="Notification" source="x_387881_notificat">d5ae8fa937384010c62603a973990e87</sys_package>
         <sys_policy/>
         <sys_scope display_value="Notification">d5ae8fa937384010c62603a973990e87</sys_scope>
         <sys_update_name>sys_sg_item_view_c030e8fd37f84010c62603a973990ecb</sys_update_name>
         <sys_updated_by>admin</sys_updated_by>
-        <sys_updated_on>2019-11-26 08:03:10</sys_updated_on>
+        <sys_updated_on>2019-12-11 04:53:47</sys_updated_on>
         <table>x_387881_notificat_notification22</table>
         <ui_styles>5215c49237418010c62603a973990e5b,e226485637418010c62603a973990e2b,bbb24c7d37b84010c62603a973990e5e</ui_styles>
     </sys_sg_item_view>

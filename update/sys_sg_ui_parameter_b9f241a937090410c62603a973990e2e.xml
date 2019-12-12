@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?><record_update table="sys_sg_ui_parameter">
     <sys_sg_ui_parameter action="INSERT_OR_UPDATE">
-        <button display_value="Update">44cae3ed37784010c62603a973990e1b</button>
+        <button display_value="Update notification">44cae3ed37784010c62603a973990e1b</button>
         <button_parent_table>x_387881_notificat_division2</button_parent_table>
         <carried>false</carried>
         <constant/>

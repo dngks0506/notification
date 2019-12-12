@@ -3,7 +3,7 @@
         <interleave_order_direction>asc</interleave_order_direction>
         <name>Calendar</name>
         <order/>
-        <screen display_value="work at home">ad27dad637190810c62603a973990e77</screen>
+        <screen/>
         <sys_class_name>sys_sg_item_stream_segment</sys_class_name>
         <sys_created_by>admin</sys_created_by>
         <sys_created_on>2019-11-26 09:03:34</sys_created_on>

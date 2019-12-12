@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_sg_button_instance">
+    <sys_sg_button_instance action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <button display_value="Update notification 2">b71b3b4737298410c62603a973990ee3</button>
+        <color_theme>destructive</color_theme>
+        <description/>
+        <field_name/>
+        <icon/>
+        <label>更新</label>
+        <location>footer</location>
+        <name>更新</name>
+        <order>40</order>
+        <parent>f5e93485376dc410c62603a973990e9d</parent>
+        <parent_table>sys_sg_screen</parent_table>
+        <sys_class_name>sys_sg_button_instance</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2019-12-11 04:54:47</sys_created_on>
+        <sys_id>f1eb98d337a98410c62603a973990e6b</sys_id>
+        <sys_mod_count>1</sys_mod_count>
+        <sys_name>更新</sys_name>
+        <sys_package display_value="Notification" source="x_387881_notificat">d5ae8fa937384010c62603a973990e87</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Notification">d5ae8fa937384010c62603a973990e87</sys_scope>
+        <sys_update_name>sys_sg_button_instance_f1eb98d337a98410c62603a973990e6b</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2019-12-11 04:54:50</sys_updated_on>
+        <table>x_387881_notificat_notification22</table>
+    </sys_sg_button_instance>
+    <sys_translated_text action="delete_multiple" query="documentkey=f1eb98d337a98410c62603a973990e6b"/>
+</record_update>

@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_sg_ui_parameter">
+    <sys_sg_ui_parameter action="DELETE">
+        <button/>
+        <button_parent_table/>
+        <carried>false</carried>
+        <constant/>
+        <default_value/>
+        <default_value_type>none</default_value_type>
+        <field_name/>
+        <input_source>user</input_source>
+        <input_style>inline</input_style>
+        <input_type>text</input_type>
+        <mandatory>false</mandatory>
+        <multi_select>false</multi_select>
+        <name>end date</name>
+        <order/>
+        <parameter_type>screen</parameter_type>
+        <placeholder/>
+        <screen display_value="Work at home">4e51946637dd0810c62603a973990e22</screen>
+        <search_type>starts_with</search_type>
+        <source_field/>
+        <sys_class_name>sys_sg_ui_parameter</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2019-11-27 06:35:58</sys_created_on>
+        <sys_id>15cc2cf237550010c62603a973990eef</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>end date</sys_name>
+        <sys_package display_value="Notification" source="x_387881_notificat">d5ae8fa937384010c62603a973990e87</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Notification">d5ae8fa937384010c62603a973990e87</sys_scope>
+        <sys_update_name>sys_sg_ui_parameter_15cc2cf237550010c62603a973990eef</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2019-11-27 06:35:58</sys_updated_on>
+        <table_name/>
+    </sys_sg_ui_parameter>
+    <sys_translated_text action="delete_multiple" query="documentkey=15cc2cf237550010c62603a973990eef"/>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="Notification">d5ae8fa937384010c62603a973990e87</application>
+        <file_path/>
+        <instance_id>b353b656db6cdf807e55d5b0cf96198f</instance_id>
+        <instance_name>dev51229</instance_name>
+        <name>sys_sg_ui_parameter_15cc2cf237550010c62603a973990eef</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_sg_ui_parameter"><sys_sg_ui_parameter action="INSERT_OR_UPDATE"><button/><button_parent_table/><carried>false</carried><constant/><default_value/><default_value_type>none</default_value_type><field_name/><input_source>user</input_source><input_style>inline</input_style><input_type>text</input_type><mandatory>false</mandatory><multi_select>false</multi_select><name>end date</name><order/><parameter_type>screen</parameter_type><placeholder/><screen display_value="Work at home">4e51946637dd0810c62603a973990e22</screen><search_type>starts_with</search_type><source_field/><sys_class_name>sys_sg_ui_parameter</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2019-11-27 06:35:58</sys_created_on><sys_id>15cc2cf237550010c62603a973990eef</sys_id><sys_mod_count>0</sys_mod_count><sys_name>end date</sys_name><sys_package display_value="Notification" source="x_387881_notificat">d5ae8fa937384010c62603a973990e87</sys_package><sys_policy/><sys_scope display_value="Notification">d5ae8fa937384010c62603a973990e87</sys_scope><sys_update_name>sys_sg_ui_parameter_15cc2cf237550010c62603a973990eef</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2019-11-27 06:35:58</sys_updated_on><table_name/></sys_sg_ui_parameter><sys_translated_text action="delete_multiple" query="documentkey=15cc2cf237550010c62603a973990eef"/></record_update>]]></payload>
+        <payload_hash>988721157</payload_hash>
+        <record_name>end date</record_name>
+        <reverted_from/>
+        <source>5c132b2e37110010c62603a973990e95</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2019-11-27 06:35:58</sys_created_on>
+        <sys_id>57cc2cf237550010c62603a973990ea0</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>16eab92dc620000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2019-11-27 06:35:58</sys_updated_on>
+        <type>UI parameter</type>
+        <update_guid>9fcc2cf242550010b0e7ff0bb4df0d9f</update_guid>
+        <update_guid_history>9fcc2cf242550010b0e7ff0bb4df0d9f:988721157</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete/>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2019-11-28 02:11:11</sys_created_on>
+        <sys_db_object display_value="" name="sys_sg_ui_parameter">sys_sg_ui_parameter</sys_db_object>
+        <sys_id>3066d558b1904100b356a4b7f8422fd9</sys_id>
+        <sys_metadata>15cc2cf237550010c62603a973990eef</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>end date</sys_name>
+        <sys_package display_value="Notification" source="x_387881_notificat">d5ae8fa937384010c62603a973990e87</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="Notification">d5ae8fa937384010c62603a973990e87</sys_scope>
+        <sys_scope_delete display_value="">03e7efd489e943679324f362d9a15631</sys_scope_delete>
+        <sys_update_name>sys_sg_ui_parameter_15cc2cf237550010c62603a973990eef</sys_update_name>
+        <sys_update_version display_value="sys_sg_ui_parameter_15cc2cf237550010c62603a973990eef">57cc2cf237550010c62603a973990ea0</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2019-11-28 02:11:11</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>

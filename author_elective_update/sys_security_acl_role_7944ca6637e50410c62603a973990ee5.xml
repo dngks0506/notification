@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_security_acl_role">
+    <sys_security_acl_role action="DELETE">
+        <sys_class_name>sys_security_acl_role</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2019-12-09 04:35:23</sys_created_on>
+        <sys_id>7944ca6637e50410c62603a973990ee5</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>x_387881_notificat_sys_sg_time_span_item_stream_listsys_sg_time_span_item_stream.admin</sys_name>
+        <sys_package display_value="Notification" source="x_387881_notificat">d5ae8fa937384010c62603a973990e87</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Notification">d5ae8fa937384010c62603a973990e87</sys_scope>
+        <sys_security_acl display_value="x_387881_notificat_sys_sg_time_span_item_stream_listsys_sg_time_span_item_stream">fd44ca6637e50410c62603a973990ee2</sys_security_acl>
+        <sys_update_name>sys_security_acl_role_7944ca6637e50410c62603a973990ee5</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2019-12-09 04:35:23</sys_updated_on>
+        <sys_user_role display_value="admin" name="admin">2831a114c611228501d4ea6c309d626d</sys_user_role>
+        <transaction_id/>
+    </sys_security_acl_role>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="Notification">d5ae8fa937384010c62603a973990e87</application>
+        <file_path/>
+        <instance_id>b353b656db6cdf807e55d5b0cf96198f</instance_id>
+        <instance_name>dev51229</instance_name>
+        <name>sys_security_acl_role_7944ca6637e50410c62603a973990ee5</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_security_acl_role"><sys_security_acl_role action="INSERT_OR_UPDATE"><sys_class_name>sys_security_acl_role</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2019-12-09 04:35:23</sys_created_on><sys_id>7944ca6637e50410c62603a973990ee5</sys_id><sys_mod_count>0</sys_mod_count><sys_name>x_387881_notificat_sys_sg_time_span_item_stream_listsys_sg_time_span_item_stream.admin</sys_name><sys_package display_value="Notification" source="x_387881_notificat">d5ae8fa937384010c62603a973990e87</sys_package><sys_policy/><sys_scope display_value="Notification">d5ae8fa937384010c62603a973990e87</sys_scope><sys_security_acl display_value="x_387881_notificat_sys_sg_time_span_item_stream_listsys_sg_time_span_item_stream">fd44ca6637e50410c62603a973990ee2</sys_security_acl><sys_update_name>sys_security_acl_role_7944ca6637e50410c62603a973990ee5</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2019-12-09 04:35:23</sys_updated_on><sys_user_role display_value="admin" name="admin">2831a114c611228501d4ea6c309d626d</sys_user_role><transaction_id/></sys_security_acl_role></record_update>]]></payload>
+        <payload_hash>904297705</payload_hash>
+        <record_name>x_387881_notificat_sys_sg_time_span_item_stream_listsys_sg_time_span_item_stream.admin</record_name>
+        <reverted_from/>
+        <source>5c132b2e37110010c62603a973990e95</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2019-12-09 04:35:23</sys_created_on>
+        <sys_id>3d44ca6637e50410c62603a973990ee7</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>16ee8f0c3d60000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2019-12-09 04:35:23</sys_updated_on>
+        <type>Access Roles</type>
+        <update_guid>7544ca66b1e504105cbf55ba8fa01ae7</update_guid>
+        <update_guid_history>7544ca66b1e504105cbf55ba8fa01ae7:904297705</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete display_value="x_387881_notificat_sys_sg_time_span_item_stream_listsys_sg_time_span_item_stream">9de2ea3637a54410c62603a973990e0b</sys_audit_delete>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2019-12-10 01:27:38</sys_created_on>
+        <sys_db_object display_value="" name="sys_security_acl_role">sys_security_acl_role</sys_db_object>
+        <sys_id>9691e892a8754aa4bed77d95b0c0c164</sys_id>
+        <sys_metadata>7944ca6637e50410c62603a973990ee5</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>x_387881_notificat_sys_sg_time_span_item_stream_listsys_sg_time_span_item_stream.admin</sys_name>
+        <sys_package display_value="Notification" source="x_387881_notificat">d5ae8fa937384010c62603a973990e87</sys_package>
+        <sys_parent display_value="">fd44ca6637e50410c62603a973990ee2</sys_parent>
+        <sys_policy/>
+        <sys_scope display_value="Notification">d5ae8fa937384010c62603a973990e87</sys_scope>
+        <sys_scope_delete display_value="">03e7efd489e943679324f362d9a15631</sys_scope_delete>
+        <sys_update_name>sys_security_acl_role_7944ca6637e50410c62603a973990ee5</sys_update_name>
+        <sys_update_version display_value="sys_security_acl_role_7944ca6637e50410c62603a973990ee5">3d44ca6637e50410c62603a973990ee7</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2019-12-10 01:27:38</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>
