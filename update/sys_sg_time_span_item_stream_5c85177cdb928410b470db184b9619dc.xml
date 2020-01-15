@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_sg_time_span_item_stream">
+    <sys_sg_time_span_item_stream action="INSERT_OR_UPDATE">
+        <data_item display_value="Business Trip">127fd0fd37f84010c62603a973990e57</data_item>
+        <end_date_field>end_date</end_date_field>
+        <interleaved_field>active</interleaved_field>
+        <name>Business trip</name>
+        <start_date_field>start_date</start_date_field>
+        <sys_class_name>sys_sg_time_span_item_stream</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2020-01-10 06:48:37</sys_created_on>
+        <sys_id>5c85177cdb928410b470db184b9619dc</sys_id>
+        <sys_mod_count>1</sys_mod_count>
+        <sys_name>Business trip</sys_name>
+        <sys_package display_value="Notification" source="x_387881_notificat">d5ae8fa937384010c62603a973990e87</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Notification">d5ae8fa937384010c62603a973990e87</sys_scope>
+        <sys_update_name>sys_sg_time_span_item_stream_5c85177cdb928410b470db184b9619dc</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2020-01-10 07:08:20</sys_updated_on>
+        <table>x_387881_notificat_notification22</table>
+    </sys_sg_time_span_item_stream>
+</record_update>

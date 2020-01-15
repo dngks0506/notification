@@ -42,7 +42,7 @@
         <update_guid_history>7d44ca663ee5041019f35c1bffc594f1:-1977250836</update_guid_history>
     </sys_update_version>
     <sys_metadata_delete action="INSERT_OR_UPDATE">
-        <sys_audit_delete display_value="x_387881_notificat_sys_sg_time_span_item_stream_listsys_sg_time_span_item_stream">dde2ea3637a54410c62603a973990e01</sys_audit_delete>
+        <sys_audit_delete display_value="">dde2ea3637a54410c62603a973990e01</sys_audit_delete>
         <sys_class_name>sys_metadata_delete</sys_class_name>
         <sys_created_by>admin</sys_created_by>
         <sys_created_on>2019-12-10 01:27:37</sys_created_on>

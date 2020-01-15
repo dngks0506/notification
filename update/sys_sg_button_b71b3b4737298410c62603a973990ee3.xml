@@ -5,8 +5,8 @@
         <auto_redirection>false</auto_redirection>
         <button_table_field_name/>
         <cancel_label>いいえ</cancel_label>
-        <condition table="x_387881_notificat_notification22">state=unconfirmed^ORstate=Reject^EQ<item display_value="Unconfirmed" endquery="false" field="state" goto="false" newquery="false" operator="=" or="false" value="unconfirmed"/>
-            <item display_value="Reject" endquery="false" field="state" goto="false" newquery="false" operator="=" or="true" value="Reject"/>
+        <condition table="x_387881_notificat_notification22">state=unconfirmed^ORstate=rejected^EQ<item display_value="unconfirmed" endquery="false" field="state" goto="false" newquery="false" operator="=" or="false" value="unconfirmed"/>
+            <item display_value="rejected" endquery="false" field="state" goto="false" newquery="false" operator="=" or="true" value="rejected"/>
             <item endquery="true" field="" goto="false" newquery="false" operator="=" or="false" value=""/>
         </condition>
         <condition_script/>
@@ -19,8 +19,6 @@
         <external_browser>false</external_browser>
         <failure_message/>
         <field_name/>
-        <hide_buttons/>
-        <hide_fields/>
         <jump_to_previous>false</jump_to_previous>
         <jump_to_screen>false</jump_to_screen>
         <link_label/>
@@ -29,9 +27,6 @@
         <mail_content/>
         <mail_subject/>
         <name>Update notification 2</name>
-        <offline>false</offline>
-        <offline_template_field/>
-        <offline_template_field_table/>
         <phone_number/>
         <phone_type>cellular</phone_type>
         <preconditions>none</preconditions>
@@ -40,9 +35,7 @@
         <save_signature_before_action_execution>false</save_signature_before_action_execution>
         <select_current_record>false</select_current_record>
         <show_acknowledgement>false</show_acknowledgement>
-        <show_buttons/>
         <show_confirmation>true</show_confirmation>
-        <show_fields/>
         <show_refresh_on_previous>false</show_refresh_on_previous>
         <show_signature>false</show_signature>
         <sms/>
@@ -51,20 +44,19 @@
         <sys_created_by>admin</sys_created_by>
         <sys_created_on>2019-12-11 02:35:00</sys_created_on>
         <sys_id>b71b3b4737298410c62603a973990ee3</sys_id>
-        <sys_mod_count>3</sys_mod_count>
+        <sys_mod_count>4</sys_mod_count>
         <sys_name>Update notification 2</sys_name>
         <sys_package display_value="Notification" source="x_387881_notificat">d5ae8fa937384010c62603a973990e87</sys_package>
         <sys_policy/>
         <sys_scope display_value="Notification">d5ae8fa937384010c62603a973990e87</sys_scope>
         <sys_update_name>sys_sg_button_b71b3b4737298410c62603a973990ee3</sys_update_name>
         <sys_updated_by>admin</sys_updated_by>
-        <sys_updated_on>2019-12-11 05:37:31</sys_updated_on>
+        <sys_updated_on>2019-12-13 02:43:11</sys_updated_on>
         <table>x_387881_notificat_notification22</table>
         <take_value_from_field>false</take_value_from_field>
         <type>write_back</type>
         <use_overlay>false</use_overlay>
         <write_back_action_item display_value="Update">f4da27ed37784010c62603a973990e15</write_back_action_item>
-        <zombified_screens/>
     </sys_sg_button>
     <sys_translated_text action="delete_multiple" query="documentkey=b71b3b4737298410c62603a973990ee3"/>
 </record_update>

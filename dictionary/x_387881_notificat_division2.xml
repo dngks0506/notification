@@ -2,17 +2,16 @@
     <element label="Division2" max_length="40" name="x_387881_notificat_division2" type="collection">
         <element choice="1" display="true" label="DIvision" max_length="40" name="division" type="choice">
             <choice>
+                <element inactive_on_update="false" label="全休" value="全休"/>
+                <element inactive_on_update="false" label="出張" value="出張"/>
+                <element inactive_on_update="false" label="半休" value="半休"/>
                 <element inactive_on_update="false" label="在宅勤務" value="在宅勤務"/>
-                <element inactive_on_update="false" label="早退" sequence="0" value="早退"/>
-                <element inactive_on_update="false" label="欠勤" sequence="1" value="hh"/>
-                <element inactive_on_update="false" label="遅刻" sequence="2" value="遅刻"/>
-                <element inactive_on_update="false" label="全休" sequence="3" value="gg"/>
-                <element inactive_on_update="false" label="半休" sequence="4" value="ｆｆｆｆｆ"/>
-                <element inactive_on_update="false" label="出張" sequence="5" value="出張"/>
+                <element inactive_on_update="false" label="早退・遅刻" value="早退・遅刻"/>
+                <element inactive_on_update="false" label="欠勤" value="欠勤"/>
             </choice>
         </element>
         <element attributes="edge_encryption_enabled=true" label="Gg" max_length="40" name="gg" type="string"/>
-        <element default="javascript:current.getTableName();" label="Class" max_length="80" name="sys_class_name" type="sys_class_name"/>
+        <element default="javascript:current.getTableName();" dynamic_default_value="b5cb83a85f220100a9ad2572f2b4773c" label="Class" max_length="80" name="sys_class_name" type="sys_class_name" use_dynamic_default="true"/>
         <index name="index">
             <element name="sys_class_name"/>
         </index>

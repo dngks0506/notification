@@ -27,7 +27,7 @@
         <sys_updated_by>admin</sys_updated_by>
         <sys_updated_on>2019-11-26 04:39:02</sys_updated_on>
     </sys_sg_calendar_screen>
-    <sys_translated_text action="delete_multiple" query="documentkey=a368c39237d90810c62603a973990e27"/>
+    <sys_translated_text action="DELETE" query="documentkey=a368c39237d90810c62603a973990e27"/>
     <sys_update_version action="INSERT_OR_UPDATE">
         <action>DELETE</action>
         <application display_value="Notification">d5ae8fa937384010c62603a973990e87</application>

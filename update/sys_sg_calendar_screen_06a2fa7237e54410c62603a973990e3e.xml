@@ -1,18 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?><record_update table="sys_sg_calendar_screen">
     <sys_sg_calendar_screen action="INSERT_OR_UPDATE">
-        <application_roles/>
         <available_offline>false</available_offline>
-        <data_item/>
         <description/>
         <dynamic_prefetch_count/>
         <fetch_type>not_required</fetch_type>
-        <hidden>false</hidden>
         <hide_filters>false</hide_filters>
         <icon display_value="schedule Icon">0aa2fa7237e54410c62603a973990ee5</icon>
         <name>schedule</name>
-        <order/>
-        <parent/>
-        <parent_table/>
         <roles_override/>
         <sys_class_name>sys_sg_calendar_screen</sys_class_name>
         <sys_created_by>admin</sys_created_by>

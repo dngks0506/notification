@@ -26,7 +26,7 @@
         <sys_updated_on>2019-11-26 07:23:21</sys_updated_on>
         <table>x_387881_notificat_notification22</table>
     </sys_sg_button_instance>
-    <sys_translated_text action="delete_multiple" query="documentkey=f34a7e3937014010c62603a973990eb8"/>
+    <sys_translated_text action="DELETE" query="documentkey=f34a7e3937014010c62603a973990eb8"/>
     <sys_update_version action="INSERT_OR_UPDATE">
         <action>DELETE</action>
         <application display_value="Notification">d5ae8fa937384010c62603a973990e87</application>

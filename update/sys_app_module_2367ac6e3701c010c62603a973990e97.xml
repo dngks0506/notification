@@ -3,9 +3,8 @@
         <active>true</active>
         <application display_value="User Administration">555a3314c0a801660132e91044d5081a</application>
         <assessment/>
-        <content_page/>
         <device_type/>
-        <filter table="x_387881_notificat_notification22">state=confirmed^EQ<item display_value="Confirmed" endquery="false" field="state" goto="false" newquery="false" operator="=" or="false" value="confirmed"/>
+        <filter table="x_387881_notificat_notification22">state=confirmed^EQ<item display_value="confirmed" endquery="false" field="state" goto="false" newquery="false" operator="=" or="false" value="confirmed"/>
             <item endquery="true" field="" goto="false" newquery="false" operator="=" or="false" value=""/>
         </filter>
         <hint/>

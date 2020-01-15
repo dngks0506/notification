@@ -5,8 +5,8 @@
         <auto_redirection>false</auto_redirection>
         <button_table_field_name/>
         <cancel_label>いいえ</cancel_label>
-        <condition table="x_387881_notificat_notification22">state=confirmed^ORstate=unconfirmed^EQ<item display_value="Confirmed" endquery="false" field="state" goto="false" newquery="false" operator="=" or="false" value="confirmed"/>
-            <item display_value="Unconfirmed" endquery="false" field="state" goto="false" newquery="false" operator="=" or="true" value="unconfirmed"/>
+        <condition table="x_387881_notificat_notification22">state=confirmed^ORstate=unconfirmed^EQ<item display_value="confirmed" endquery="false" field="state" goto="false" newquery="false" operator="=" or="false" value="confirmed"/>
+            <item display_value="unconfirmed" endquery="false" field="state" goto="false" newquery="false" operator="=" or="true" value="unconfirmed"/>
             <item endquery="true" field="" goto="false" newquery="false" operator="=" or="false" value=""/>
         </condition>
         <condition_script/>
@@ -19,8 +19,6 @@
         <external_browser>false</external_browser>
         <failure_message>キャンセルしました</failure_message>
         <field_name/>
-        <hide_buttons/>
-        <hide_fields/>
         <jump_to_previous>false</jump_to_previous>
         <jump_to_screen>false</jump_to_screen>
         <link_label/>
@@ -29,9 +27,6 @@
         <mail_content/>
         <mail_subject/>
         <name>Bussiness reject</name>
-        <offline>false</offline>
-        <offline_template_field/>
-        <offline_template_field_table/>
         <phone_number/>
         <phone_type>cellular</phone_type>
         <preconditions>none</preconditions>
@@ -40,9 +35,7 @@
         <save_signature_before_action_execution>false</save_signature_before_action_execution>
         <select_current_record>false</select_current_record>
         <show_acknowledgement>false</show_acknowledgement>
-        <show_buttons/>
         <show_confirmation>true</show_confirmation>
-        <show_fields/>
         <show_refresh_on_previous>false</show_refresh_on_previous>
         <show_signature>false</show_signature>
         <sms/>
@@ -64,7 +57,6 @@
         <type>write_back</type>
         <use_overlay>false</use_overlay>
         <write_back_action_item display_value="Bussiness reject">9895d7ac37a98410c62603a973990ede</write_back_action_item>
-        <zombified_screens/>
     </sys_sg_button>
     <sys_translated_text action="delete_multiple" query="documentkey=2e7597ac37a98410c62603a973990e5d"/>
 </record_update>

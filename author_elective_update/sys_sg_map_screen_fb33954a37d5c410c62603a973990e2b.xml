@@ -39,7 +39,7 @@
         <tag_style/>
         <title/>
     </sys_sg_map_screen>
-    <sys_translated_text action="delete_multiple" query="documentkey=fb33954a37d5c410c62603a973990e2b"/>
+    <sys_translated_text action="DELETE" query="documentkey=fb33954a37d5c410c62603a973990e2b"/>
     <sys_update_version action="INSERT_OR_UPDATE">
         <action>DELETE</action>
         <application display_value="Notification">d5ae8fa937384010c62603a973990e87</application>

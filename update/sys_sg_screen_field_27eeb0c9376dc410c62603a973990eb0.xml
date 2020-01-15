@@ -25,4 +25,5 @@
         <type>auto</type>
         <value_only>false</value_only>
     </sys_sg_screen_field>
+    <sys_translated_text action="delete_multiple" query="documentkey=27eeb0c9376dc410c62603a973990eb0"/>
 </record_update>

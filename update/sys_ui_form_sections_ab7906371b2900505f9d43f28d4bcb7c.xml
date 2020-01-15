@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_ui_form_sections form_id="ab7906371b2900505f9d43f28d4bcb7c" sys_domain="global" table="sc_req_item" version="3">
+        <sys_ui_form_section action="INSERT_OR_UPDATE">
+            <position>0</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2019-12-13 02:10:34</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>e37906371b2900505f9d43f28d4bcb7d</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_overrides/>
+            <sys_ui_form display_value="sc_req_item" name="sc_req_item" sys_domain="global" view="602a00511b2000105f9d43f28d4bcbc2">ab7906371b2900505f9d43f28d4bcb7c</sys_ui_form>
+            <sys_ui_section caption="NULL" display_value="" name="sc_req_item" sys_domain="global" view="602a00511b2000105f9d43f28d4bcbc2">eacc50f4c0a8016500b55c7f52e23edb</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2019-12-13 02:10:34</sys_updated_on>
+        </sys_ui_form_section>
+        <sys_ui_form_section action="INSERT_OR_UPDATE">
+            <position>1</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2019-12-13 02:10:34</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>6f7906371b2900505f9d43f28d4bcb7d</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_overrides/>
+            <sys_ui_form display_value="sc_req_item" name="sc_req_item" sys_domain="global" view="602a00511b2000105f9d43f28d4bcbc2">ab7906371b2900505f9d43f28d4bcb7c</sys_ui_form>
+            <sys_ui_section caption="New Section" display_value="New Section" name="sc_req_item" sys_domain="global" view="602a00511b2000105f9d43f28d4bcbc2">25427d2537614010c62603a973990ea4</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2019-12-13 02:10:34</sys_updated_on>
+        </sys_ui_form_section>
+        <sys_ui_form action="INSERT_OR_UPDATE">
+            <name>sc_req_item</name>
+            <roles/>
+            <sys_class_name>sys_ui_form</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2019-12-13 02:10:34</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>ab7906371b2900505f9d43f28d4bcb7c</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>sc_req_item</sys_name>
+            <sys_overrides/>
+            <sys_package display_value="Notification" source="x_387881_notificat">d5ae8fa937384010c62603a973990e87</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="Notification">d5ae8fa937384010c62603a973990e87</sys_scope>
+            <sys_update_name>sys_ui_form_sections_ab7906371b2900505f9d43f28d4bcb7c</sys_update_name>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2019-12-13 02:10:34</sys_updated_on>
+            <sys_user/>
+            <view display_value="Self Service" name="ess">602a00511b2000105f9d43f28d4bcbc2</view>
+            <view_name/>
+        </sys_ui_form>
+    </sys_ui_form_sections>
+</record_update>

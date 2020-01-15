@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_sg_item_stream_segment">
+    <sys_sg_item_stream_segment action="DELETE">
+        <interleave_order_direction>asc</interleave_order_direction>
+        <name>Schedule item</name>
+        <order/>
+        <screen display_value="calendar">67548e6637e50410c62603a973990e5e</screen>
+        <sys_class_name>sys_sg_item_stream_segment</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2019-12-11 01:49:01</sys_created_on>
+        <sys_id>9001f74b37e58410c62603a973990e33</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Schedule item</sys_name>
+        <sys_package display_value="Notification" source="x_387881_notificat">d5ae8fa937384010c62603a973990e87</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Notification">d5ae8fa937384010c62603a973990e87</sys_scope>
+        <sys_update_name>sys_sg_item_stream_segment_9001f74b37e58410c62603a973990e33</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2019-12-11 01:49:01</sys_updated_on>
+    </sys_sg_item_stream_segment>
+<sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="Notification">d5ae8fa937384010c62603a973990e87</application>
+        <file_path/>
+        <instance_id>879644d5dbe4401052dd2f17d4961939</instance_id>
+        <instance_name>mitsuiknowledgeindustrycoltddemo6</instance_name>
+        <name>sys_sg_item_stream_segment_9001f74b37e58410c62603a973990e33</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_sg_item_stream_segment">
+    <sys_sg_item_stream_segment action="INSERT_OR_UPDATE">
+        <interleave_order_direction>asc</interleave_order_direction>
+        <name>Schedule item</name>
+        <order/>
+        <screen display_value="calendar">67548e6637e50410c62603a973990e5e</screen>
+        <sys_class_name>sys_sg_item_stream_segment</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2019-12-11 01:49:01</sys_created_on>
+        <sys_id>9001f74b37e58410c62603a973990e33</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Schedule item</sys_name>
+        <sys_package display_value="Notification" source="x_387881_notificat">d5ae8fa937384010c62603a973990e87</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Notification">d5ae8fa937384010c62603a973990e87</sys_scope>
+        <sys_update_name>sys_sg_item_stream_segment_9001f74b37e58410c62603a973990e33</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2019-12-11 01:49:01</sys_updated_on>
+    </sys_sg_item_stream_segment>
+</record_update>]]></payload>
+        <payload_hash>1796521558</payload_hash>
+        <record_name>Schedule item</record_name>
+        <reverted_from/>
+        <source>4c690ef31b2900505f9d43f28d4bcbd9</source>
+        <source_table>sys_upgrade_history</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2019-12-13 02:10:25</sys_created_on>
+        <sys_id>9d7982371b2900505f9d43f28d4bcb7e</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>16efd057d530000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2019-12-13 02:10:25</sys_updated_on>
+        <type>Item Stream Segment</type>
+        <update_guid>1d798237c12900508324daba4640b57e</update_guid>
+        <update_guid_history>1d798237c12900508324daba4640b57e:0,3bc78a730629005098607a68d23a5dc8:-1479646314,aec74a730f290050ef66f71e448be503:0,4ad9d1efd5e5cc102a404cd1cab692aa:1796521558</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete/>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2020-01-10 06:45:29</sys_created_on>
+        <sys_db_object display_value="" name="sys_sg_item_stream_segment">sys_sg_item_stream_segment</sys_db_object>
+        <sys_id>0a421e60917b41f8936007dae6bc3240</sys_id>
+        <sys_metadata>9001f74b37e58410c62603a973990e33</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Schedule item</sys_name>
+        <sys_package display_value="Notification" source="x_387881_notificat">d5ae8fa937384010c62603a973990e87</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="Notification">d5ae8fa937384010c62603a973990e87</sys_scope>
+        <sys_scope_delete display_value="">03e7efd489e943679324f362d9a15631</sys_scope_delete>
+        <sys_update_name>sys_sg_item_stream_segment_9001f74b37e58410c62603a973990e33</sys_update_name>
+        <sys_update_version display_value="sys_sg_item_stream_segment_9001f74b37e58410c62603a973990e33">9d7982371b2900505f9d43f28d4bcb7e</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2020-01-10 06:45:29</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>

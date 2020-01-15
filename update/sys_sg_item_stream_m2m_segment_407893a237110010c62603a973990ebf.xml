@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?><record_update table="sys_sg_item_stream_m2m_segment">
     <sys_sg_item_stream_m2m_segment action="INSERT_OR_UPDATE">
-        <item_stream display_value="My Open Todos">65cd82b1378d0010c62603a973990eb6</item_stream>
+        <item_stream display_value="">65cd82b1378d0010c62603a973990eb6</item_stream>
         <segment display_value="working at home">2f68d3a237110010c62603a973990e34</segment>
         <sys_class_name>sys_sg_item_stream_m2m_segment</sys_class_name>
         <sys_created_by>admin</sys_created_by>

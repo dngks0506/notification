@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_sg_applet_launcher_m2m_section">
+    <sys_sg_applet_launcher_m2m_section action="DELETE">
+        <applet_launcher display_value="Notification">cb0a0efd374d0010c62603a973990e3f</applet_launcher>
+        <order>20</order>
+        <section display_value="Test">0faacd0237d5c410c62603a973990ecc</section>
+        <sys_class_name>sys_sg_applet_launcher_m2m_section</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2019-11-25 00:51:01</sys_created_on>
+        <sys_id>0faacd0237d5c410c62603a973990ecf</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name/>
+        <sys_package display_value="Notification" source="x_387881_notificat">d5ae8fa937384010c62603a973990e87</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Notification">d5ae8fa937384010c62603a973990e87</sys_scope>
+        <sys_update_name>sys_sg_applet_launcher_m2m_section_0faacd0237d5c410c62603a973990ecf</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2019-11-25 00:51:01</sys_updated_on>
+    </sys_sg_applet_launcher_m2m_section>
+<sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="Notification">d5ae8fa937384010c62603a973990e87</application>
+        <file_path/>
+        <instance_id>879644d5dbe4401052dd2f17d4961939</instance_id>
+        <instance_name>mitsuiknowledgeindustrycoltddemo6</instance_name>
+        <name>sys_sg_applet_launcher_m2m_section_0faacd0237d5c410c62603a973990ecf</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_sg_applet_launcher_m2m_section">
+    <sys_sg_applet_launcher_m2m_section action="INSERT_OR_UPDATE">
+        <applet_launcher display_value="Notification">cb0a0efd374d0010c62603a973990e3f</applet_launcher>
+        <order>20</order>
+        <section display_value="Test">0faacd0237d5c410c62603a973990ecc</section>
+        <sys_class_name>sys_sg_applet_launcher_m2m_section</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2019-11-25 00:51:01</sys_created_on>
+        <sys_id>0faacd0237d5c410c62603a973990ecf</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name/>
+        <sys_package display_value="Notification" source="x_387881_notificat">d5ae8fa937384010c62603a973990e87</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Notification">d5ae8fa937384010c62603a973990e87</sys_scope>
+        <sys_update_name>sys_sg_applet_launcher_m2m_section_0faacd0237d5c410c62603a973990ecf</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2019-11-25 00:51:01</sys_updated_on>
+    </sys_sg_applet_launcher_m2m_section>
+</record_update>]]></payload>
+        <payload_hash>2031181277</payload_hash>
+        <record_name/>
+        <reverted_from/>
+        <source>4c690ef31b2900505f9d43f28d4bcbd9</source>
+        <source_table>sys_upgrade_history</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2019-12-13 02:10:16</sys_created_on>
+        <sys_id>0369cef31b2900505f9d43f28d4bcb95</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>16efd05579b0000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2019-12-13 02:10:16</sys_updated_on>
+        <type>Applet Launcher Sections</type>
+        <update_guid>8f69cef33c29005051a1d98b228cba94</update_guid>
+        <update_guid_history>8f69cef33c29005051a1d98b228cba94:0,f1b70273112900505dfcf315e9b9f9fb:1106129098,f9b7027383290050953b1aed593b9bcf:0,88d951ef5de5cc10addf32653ff4b109:2031181277</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete/>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2019-12-13 02:50:23</sys_created_on>
+        <sys_db_object display_value="" name="sys_sg_applet_launcher_m2m_section">sys_sg_applet_launcher_m2m_section</sys_db_object>
+        <sys_id>9871f9bcce3045ceaf34c733334b9584</sys_id>
+        <sys_metadata>0faacd0237d5c410c62603a973990ecf</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name/>
+        <sys_package display_value="Notification" source="x_387881_notificat">d5ae8fa937384010c62603a973990e87</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="Notification">d5ae8fa937384010c62603a973990e87</sys_scope>
+        <sys_scope_delete display_value="">03e7efd489e943679324f362d9a15631</sys_scope_delete>
+        <sys_update_name>sys_sg_applet_launcher_m2m_section_0faacd0237d5c410c62603a973990ecf</sys_update_name>
+        <sys_update_version display_value="sys_sg_applet_launcher_m2m_section_0faacd0237d5c410c62603a973990ecf">0369cef31b2900505f9d43f28d4bcb95</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2019-12-13 02:50:23</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>

@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?><record_update table="sys_sg_item_stream_m2m_segment">
     <sys_sg_item_stream_m2m_segment action="INSERT_OR_UPDATE">
         <item_stream display_value="諸届申請 Item Stream">a9e93485376dc410c62603a973990e93</item_stream>
-        <segment display_value="schedule2">ce0e730b37298410c62603a973990e22</segment>
+        <segment/>
         <sys_class_name>sys_sg_item_stream_m2m_segment</sys_class_name>
         <sys_created_by>admin</sys_created_by>
         <sys_created_on>2019-12-11 02:44:51</sys_created_on>

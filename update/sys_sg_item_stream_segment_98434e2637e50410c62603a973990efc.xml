@@ -3,7 +3,7 @@
         <interleave_order_direction>asc</interleave_order_direction>
         <name>sys_sg_time_span_item_stream</name>
         <order/>
-        <screen display_value="calendar">67548e6637e50410c62603a973990e5e</screen>
+        <screen/>
         <sys_class_name>sys_sg_item_stream_segment</sys_class_name>
         <sys_created_by>admin</sys_created_by>
         <sys_created_on>2019-12-09 04:37:05</sys_created_on>

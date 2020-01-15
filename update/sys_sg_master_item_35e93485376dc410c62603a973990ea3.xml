@@ -1,13 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?><record_update table="sys_sg_master_item">
     <sys_sg_master_item action="INSERT_OR_UPDATE">
-        <condition/>
         <condition_order>-1</condition_order>
         <datasource_table>x_387881_notificat_notification22</datasource_table>
         <datasource_table_condition/>
         <embedded_screen display_value="諸届申請">ade93485376dc410c62603a973990e9a</embedded_screen>
         <item_view display_value="諸届申請 Item View">a9e93485376dc410c62603a973990e8e</item_view>
         <name>諸届申請 Master Item</name>
-        <screen/>
         <sys_class_name>sys_sg_master_item</sys_class_name>
         <sys_created_by>admin</sys_created_by>
         <sys_created_on>2019-12-04 07:19:33</sys_created_on>
@@ -20,6 +18,5 @@
         <sys_update_name>sys_sg_master_item_35e93485376dc410c62603a973990ea3</sys_update_name>
         <sys_updated_by>admin</sys_updated_by>
         <sys_updated_on>2019-12-04 07:20:00</sys_updated_on>
-        <table/>
     </sys_sg_master_item>
 </record_update>

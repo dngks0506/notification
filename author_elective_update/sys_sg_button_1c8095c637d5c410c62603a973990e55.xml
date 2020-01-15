@@ -63,7 +63,7 @@
         <write_back_action_item/>
         <zombified_screens/>
     </sys_sg_button>
-    <sys_translated_text action="delete_multiple" query="documentkey=1c8095c637d5c410c62603a973990e55"/>
+    <sys_translated_text action="DELETE" query="documentkey=1c8095c637d5c410c62603a973990e55"/>
     <sys_update_version action="INSERT_OR_UPDATE">
         <action>DELETE</action>
         <application display_value="Notification">d5ae8fa937384010c62603a973990e87</application>

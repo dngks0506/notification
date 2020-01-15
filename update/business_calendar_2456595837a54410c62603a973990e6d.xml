@@ -10,6 +10,7 @@
         <sys_created_by>admin</sys_created_by>
         <sys_created_on>2019-12-02 01:28:25</sys_created_on>
         <sys_domain>global</sys_domain>
+        <sys_domain_path>/</sys_domain_path>
         <sys_id>2456595837a54410c62603a973990e6d</sys_id>
         <sys_mod_count>0</sys_mod_count>
         <sys_name>calendar2</sys_name>

@@ -3,7 +3,7 @@
         <interleave_order_direction>asc</interleave_order_direction>
         <name>DD</name>
         <order/>
-        <screen display_value="Details">61f2450937300010c62603a973990e8d</screen>
+        <screen display_value="">61f2450937300010c62603a973990e8d</screen>
         <sys_class_name>sys_sg_item_stream_segment</sys_class_name>
         <sys_created_by>admin</sys_created_by>
         <sys_created_on>2019-12-10 02:09:55</sys_created_on>

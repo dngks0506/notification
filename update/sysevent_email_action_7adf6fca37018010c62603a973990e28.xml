@@ -7,7 +7,7 @@
         <affected_field_on_event/>
         <category display_value="Approval" name="Approval">1a9d02137f232200ee2e108c3ffa9113</category>
         <collection>x_387881_notificat_notification22</collection>
-        <condition table="x_387881_notificat_notification22">state=unconfirmed^ORstate=Reject^EQ<item display_value="Unconfirmed" endquery="false" field="state" goto="false" newquery="false" operator="=" or="false" value="unconfirmed"/>
+        <condition table="x_387881_notificat_notification22">state=unconfirmed^ORstate=Reject^EQ<item display_value="unconfirmed" endquery="false" field="state" goto="false" newquery="false" operator="=" or="false" value="unconfirmed"/>
             <item display_value="Reject" endquery="false" field="state" goto="false" newquery="false" operator="=" or="true" value="Reject"/>
             <item endquery="true" field="" goto="false" newquery="false" operator="=" or="false" value=""/>
         </condition>

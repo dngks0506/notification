@@ -53,7 +53,7 @@
         <sys_class_name>sys_dictionary</sys_class_name>
         <sys_created_by>admin</sys_created_by>
         <sys_created_on>2019-11-12 04:29:06</sys_created_on>
-        <sys_id>1a01236e37110010c62603a973990e1e</sys_id>
+        <sys_id>77590ef31b2900505f9d43f28d4bcb93</sys_id>
         <sys_mod_count>0</sys_mod_count>
         <sys_name>upload image</sys_name>
         <sys_package display_value="Notification" source="x_387881_notificat">d5ae8fa937384010c62603a973990e87</sys_package>
@@ -61,7 +61,7 @@
         <sys_scope display_value="Notification">d5ae8fa937384010c62603a973990e87</sys_scope>
         <sys_update_name>sys_dictionary_x_387881_notificat_notification22_upload_image</sys_update_name>
         <sys_updated_by>admin</sys_updated_by>
-        <sys_updated_on>2019-11-27 01:05:02</sys_updated_on>
+        <sys_updated_on>2019-12-13 02:10:09</sys_updated_on>
         <table_reference>false</table_reference>
         <text_index>false</text_index>
         <unique>false</unique>

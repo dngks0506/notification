@@ -33,7 +33,7 @@
         <sys_updated_on>2019-11-27 04:13:59</sys_updated_on>
         <table_name/>
     </sys_sg_ui_parameter>
-    <sys_translated_text action="delete_multiple" query="documentkey=c582ffee37510010c62603a973990ea1"/>
+    <sys_translated_text action="DELETE" query="documentkey=c582ffee37510010c62603a973990ea1"/>
     <sys_update_version action="INSERT_OR_UPDATE">
         <action>DELETE</action>
         <application display_value="Notification">d5ae8fa937384010c62603a973990e87</application>

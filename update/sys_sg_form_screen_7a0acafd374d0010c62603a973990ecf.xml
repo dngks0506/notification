@@ -1,19 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?><record_update table="sys_sg_form_screen">
     <sys_sg_form_screen action="INSERT_OR_UPDATE">
-        <application_roles/>
         <available_offline>false</available_offline>
         <data_item/>
         <description/>
         <dynamic_prefetch_count/>
         <fetch_type>not_required</fetch_type>
-        <hidden>false</hidden>
         <hide_filters>false</hide_filters>
-        <icon display_value="Notification register Icon">200bdabd378d0010c62603a973990eba</icon>
+        <icon display_value="">200bdabd378d0010c62603a973990eba</icon>
         <item_view display_value="Notification register detail item view">8b23d7ad37384010c62603a973990e85</item_view>
         <name>Notification register</name>
-        <order/>
-        <parent/>
-        <parent_table/>
         <roles_override/>
         <sys_class_name>sys_sg_form_screen</sys_class_name>
         <sys_created_by>admin</sys_created_by>
